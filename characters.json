@@ -462,6 +462,10 @@
                 1076
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Aero Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Phlogiston",
             "commonMat": "Howler Core",
@@ -971,6 +975,10 @@
                 1003
             ]
         },
+        "tags": [
+            "Support and Healer",
+            "Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Helix",
             "commonMat": "Howler Core",
@@ -1123,11 +1131,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. DMG",
+                        "type": "Crit DMG",
                         "description": "Crit. DMG increased by 2.40%."
                     },
                     {
-                        "type": "Crit. DMG",
+                        "type": "Crit DMG",
                         "description": "Crit. DMG increased by 5.60%."
                     }
                 ]
@@ -1538,11 +1546,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. DMG",
+                        "type": "Crit DMG",
                         "description": "Crit. DMG increased by 2.40%."
                     },
                     {
-                        "type": "Crit. DMG",
+                        "type": "Crit DMG",
                         "description": "Crit. DMG increased by 5.60%."
                     }
                 ]
@@ -1610,6 +1618,10 @@
                 1186
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Heavy Attack Damage"
+        ],
         "materials": {
             "forgeryMat": "Waveworn",
             "commonMat": "Ring",
@@ -2067,6 +2079,10 @@
                 954
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Basic Attack Damage"
+        ],
         "materials": {
             "forgeryMat": "Phlogiston",
             "commonMat": "Whisperin Core",
@@ -2615,6 +2631,11 @@
                 1149
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Resonance Skill Damage",
+            "Havoc Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Metallic Drip",
             "commonMat": "Ring",
@@ -3228,6 +3249,10 @@
                 1247
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Basic Attack Damage"
+        ],
         "materials": {
             "forgeryMat": "Helix",
             "commonMat": "Whisperin Core",
@@ -3380,11 +3405,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -3847,11 +3872,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -3919,6 +3944,12 @@
                 1125
             ]
         },
+        "tags": [
+            "Support and Healer",
+            "Heavy Attack Damage",
+            "Traction",
+            "Resonance Liberation Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Cadence",
             "commonMat": "Whisperin Core",
@@ -4454,10 +4485,14 @@
                 1210
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Basic Attack Damage"
+        ],
         "materials": {
             "forgeryMat": "Cadence",
             "commonMat": "Whisperin Core",
-            "ascensionMat": "Terraspawn Fungus",
+            "ascensionMat": "Coriolus",
             "bossMat": "Sound-Keeping Tacet Core",
             "weeklyBossMat": "Unending Destruction"
         },
@@ -4924,10 +4959,16 @@
                 1137
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Resonance Liberation Damage",
+            "Coordinated Attack",
+            "Heavy Attack Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Phlogiston",
             "commonMat": "Whisperin Core",
-            "ascensionMat": "Terraspawn Fungus",
+            "ascensionMat": "Coriolus",
             "bossMat": "Rage Tacet Core",
             "weeklyBossMat": "Monument Bell"
         },
@@ -5432,6 +5473,10 @@
                 1369
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Deceleration"
+        ],
         "materials": {
             "forgeryMat": "Metallic Drip",
             "commonMat": "Whisperin Core",
@@ -6044,6 +6089,10 @@
                 1259
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Basic Attack Damage"
+        ],
         "materials": {
             "forgeryMat": "Metallic Drip",
             "commonMat": "Whisperin Core",
@@ -6605,6 +6654,10 @@
                 942
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Basic Attack Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Metallic Drip",
             "commonMat": "Whisperin Core",
@@ -7153,6 +7206,11 @@
                 1565
             ]
         },
+        "tags": [
+            "Support and Healer",
+            "Resonance Liberation Damage",
+            "Resonance Skill Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Waveworn",
             "commonMat": "Howler Core",
@@ -7753,6 +7811,10 @@
                 1100
             ]
         },
+        "tags": [
+            "Support and Healer",
+            "Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Helix",
             "commonMat": "Howler Core",
@@ -8210,6 +8272,12 @@
                 1100
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Heavy Attack Damage",
+            "Traction",
+            "Resonance Liberation Charge"
+        ],
         "materials": {
             "forgeryMat": "Metallic Drip",
             "commonMat": "Ring",
@@ -8642,7 +8710,7 @@
                         "11.46%*5 DEF"
                     ],
                     [
-                        "Lightning Infused Basic Attack Part V Damage",
+                        "Lightning Infused Basic Attack Part 5 Damage",
                         "8.24%*3+16.47% DEF",
                         "8.91%*3+17.82% DEF",
                         "9.59%*3+19.17% DEF",
@@ -8836,6 +8904,12 @@
                 1638
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Resonance Skill Damage",
+            "Vibration Strength Reduction",
+            "Knockback Resistance Boost"
+        ],
         "materials": {
             "forgeryMat": "Cadence",
             "commonMat": "Ring",
@@ -9053,11 +9127,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -9286,11 +9360,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -9358,6 +9432,11 @@
                 1186
             ]
         },
+        "tags": [
+            "Main Damage Dealer",
+            "Heavy Attack Damage",
+            "Traction"
+        ],
         "materials": {
             "forgeryMat": "Waveworn",
             "commonMat": "Howler Core",
@@ -9510,11 +9589,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -9782,11 +9861,11 @@
                 ],
                 "nodes": [
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 1.20%."
                     },
                     {
-                        "type": "Crit. Rate",
+                        "type": "Crit Rate",
                         "description": "Crit. Rate increased by 2.80%."
                     }
                 ]
@@ -9854,10 +9933,17 @@
                 1283
             ]
         },
+        "tags": [
+            "Burst Damage Dealer",
+            "Resonance Skill Damage",
+            "Coordinated Attack",
+            "Electro Damage Boost",
+            "Resonance Liberation Damage Boost"
+        ],
         "materials": {
             "forgeryMat": "Helix",
             "commonMat": "Whisperin Core",
-            "ascensionMat": "Terraspawn Fungus",
+            "ascensionMat": "Coriolus",
             "bossMat": "Group Abomination Tacet Core",
             "weeklyBossMat": "Dreamless Feather"
         },
