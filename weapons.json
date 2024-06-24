@@ -1,0 +1,2061 @@
+[
+    {
+        "id": 0,
+        "name": "Training Broadblade",
+        "rarity": 1,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "20",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Persevere",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span>.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "This broadblade is designed specifically for training and teaching, offering only the basic features.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Training Gauntlets",
+        "rarity": 1,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "20",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Persevere",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span>.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "These gauntlets are designed specifically for training and teaching, offering only the basic features.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Training Pistols",
+        "rarity": 1,
+        "type": "Pistols",
+        "stats": {
+            "atk": "20",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Persevere",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span>.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "These pistols are designed specifically for training and teaching, offering only the basic features.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Training Rectifier",
+        "rarity": 1,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "20",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Persevere",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span>.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "This rectifier is designed specifically for training and teaching, offering only the basic features.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Training Sword",
+        "rarity": 1,
+        "type": "Sword",
+        "stats": {
+            "atk": "20",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Persevere",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span>.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "This sword is designed specifically for training and teaching, offering only the basic features.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Tyro Broadblade",
+        "rarity": 2,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "22",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Prologue",
+                "description": "Increases ATK by <span class=\"text-refinement\">5%</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "The onset of pinnacle pursuit. A broadblade designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Tyro Gauntlets",
+        "rarity": 2,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "22",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Prologue",
+                "description": "Increases ATK by <span class=\"text-refinement\">5%</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "The dawn of enduring endeavor. A pair of gauntlets designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Tyro Pistols",
+        "rarity": 2,
+        "type": "Pistols",
+        "stats": {
+            "atk": "22",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Prologue",
+                "description": "Increases ATK by <span class=\"text-refinement\">5%</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "The inception of valiant venture. A pair of pistols designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Tyro Rectifier",
+        "rarity": 2,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "22",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Prologue",
+                "description": "Increases ATK by <span class=\"text-refinement\">5%</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "The origin of universal genesis. A Rectifier designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Tyro Sword",
+        "rarity": 2,
+        "type": "Sword",
+        "stats": {
+            "atk": "22",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Prologue",
+                "description": "Increases ATK by <span class=\"text-refinement\">5%</span>.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "The birth of revolutionary tides. A sword designed for novice Resonators. Contains a power not to be underestimated under its simple outlook.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Broadblade of Night",
+        "rarity": 3,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Valiance",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "May victory prevail the lasting night. In addition to the sworn oath of protection, this broadblade also carries the resolution of those fighting souls.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Broadblade of Voyager",
+        "rarity": 3,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "24",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Long Journey",
+                "description": "When Resonance Skill is released, restores Resonance Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "The Broadblade provided by the Pioneer Association for the explorers is brightly colored, not easy to lose, hard in texture, and can cope with various extreme environments for a long time, and is very popular among the explorers.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Gauntlets of Night",
+        "rarity": 3,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Valiance",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "May victory prevail the lasting night. In addition to the sworn oath of protection, these gauntlets also commemorates the sacrifices of those brave souls.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Gauntlets of Voyager",
+        "rarity": 3,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "26",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Crusade",
+                "description": "When Resonance Skill is released, restores Resonance Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "The Gauntlets provided by the Pioneer Association for the far walkers, with bright colors, not easy to lose, hard texture, can cope with various extreme environments for a long time, and are very popular among the explorer group.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Guardian Broadblade",
+        "rarity": 3,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Consensus",
+                "description": "Increases Basic Attack DMG and Heavy Attack DMG by <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone in the development of new weapons.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Guardian Gauntlets",
+        "rarity": 3,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "24",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Collective Strength",
+                "description": "Increases Resonance Liberation DMG Bonus by <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Guardian Pistols",
+        "rarity": 3,
+        "type": "Pistols",
+        "stats": {
+            "atk": "24",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Unity",
+                "description": "Resonance Skill DMG Bonus is increased by <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Guardian Rectifier",
+        "rarity": 3,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Companionship",
+                "description": "Increases Basic Attack and Heavy Attack DMG Bonus by <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Guardian Sword",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "24",
+            "subStat": "HP",
+            "passive": {
+                "name": "Unified",
+                "description": "Resonance Skill DMG Bonus is increased by <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone for the development of new weapons.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Originite Type I",
+        "displayName": "Originite: Type I",
+        "rarity": 3,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "24",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Temperance",
+                "description": "When Resonance Skill is released, restores HP by <span class=\"text-refinement\">3%</span>. This effect can be triggered 1 time(s) every 12s.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.75%",
+                        "4.5%",
+                        "5.25%",
+                        "6%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "To create new Tacetite weapons, the Huaxu Academy designed this test Broadblade for technical verification. Its main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Originite Type II",
+        "displayName": "Originite: Type II",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Vanquish",
+                "description": "When Resonance Liberation is released, restores HP by <span class=\"text-refinement\">5%</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "To create new Tacetite weapons, the Huaxu Academy designed this test Sword for technical verification. Its main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Originite Type III",
+        "displayName": "Originite: Type III",
+        "rarity": 3,
+        "type": "Pistols",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Alacrity",
+                "description": "When Counter Attack is released, restores HP by <span class=\"text-refinement\">1.6%</span>. This effect can be triggered 1 time(s) every 6s.",
+                "scaling": [
+                    [
+                        "1.6%",
+                        "2%",
+                        "2.4%",
+                        "2.8%",
+                        "3.2%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "To create new Tacetite weapons, the Huaxu Academy designed these test Pistols for technical verification. Their main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Originite Type IV",
+        "displayName": "Originite: Type IV",
+        "rarity": 3,
+        "type": "",
+        "stats": {
+            "atk": "24",
+            "subStat": "Crit. DMG",
+            "passive": {
+                "name": "Rejuvenate",
+                "description": "When hitting a target with Basic Attacks, restores HP by <span class=\"text-refinement\">0.5%</span>. This effect can be triggered 1 time(s) every 3s.",
+                "scaling": [
+                    [
+                        "0.5%",
+                        "0.65%",
+                        "0.8%",
+                        "0.95%",
+                        "1.1%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "To create new Tacetite weapons, the Huaxu Academy designed these test Gauntlets for technical verification. Their main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Originite Type V",
+        "displayName": "Originite: Type V",
+        "rarity": 3,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "24",
+            "subStat": "HP",
+            "passive": {
+                "name": "Augment",
+                "description": "When Intro Skill is released, restores HP by <span class=\"text-refinement\">5%</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "To create new Tacetite weapons, the Huaxu Academy designed this test Rectifier for technical verification. Its main feature is healing through attacks, improving the physical abilities of Resonators while exhibiting impressive weapon performance.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Pistols of Night",
+        "rarity": 3,
+        "type": "Pistols",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Valiance",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "May victory prevail the lasting night. This type of pistols not only carries the oath of protection but also contains the hope of rejuvenation.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Pistols of Voyager",
+        "rarity": 3,
+        "type": "Pistols",
+        "stats": {
+            "atk": "24",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Long Journey",
+                "description": "When Resonance Skill is released, restores Resonance Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "The Pistols provided by the Pioneer Association for the far walkers, with bright colors, not easy to lose, hard texture, can cope with various extreme environments for a long time, and is very popular among the explorer group.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Rectifier of Night",
+        "rarity": 3,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Valiance",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "May victory prevail the lasting night. In addition to the sworn oath of protection, this rectifier signifies the confidence of those fighting souls.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Rectifier of Voyager",
+        "rarity": 3,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "24",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Crusade",
+                "description": "When Resonance Skill is released, restores Resonance Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "The Rectifier provided by the Pioneer Association for the explorers, with bright colors, not easy to lose, hard texture, can cope with various extreme environments for a long time, is very popular among the explorers.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Sword of Night",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "26",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Valiance",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "May victory prevail the lasting night. In addition to the sworn oath of protection, this sword also represents the ambition of those brave souls.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Sword of Voyager",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "24",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Crusade",
+                "description": "When Resonance Skill is released, restores Resonance Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "The Sword provided by the Pioneer Association for the voyagers is bright in color, not easy to lose, hard in texture, and can cope with various extreme environments for a long time, and is very popular among the group of explorers.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Amity Accord",
+        "rarity": 4,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "27",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Camaraderie",
+                "description": "When Intro Skill is released, increases Resonance Liberation DMG Bonus by <span class=\"text-refinement\">20%</span>, lasting for 15s.",
+                "scaling": [
+                    [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "A weapon designed to commemorate the Midnight Rangers' comradeship. \"Thin garments yield to icy moons, while armor withstands the chill of stars.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Augment",
+        "rarity": 4,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "33",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Forgiving Resilience",
+                "description": "When Resonance Liberation is released, increases the caster's ATK by <span class=\"text-refinement\">15%</span>, lasting for 15s.",
+                "scaling": [
+                    [
+                        "15%",
+                        "23.25%",
+                        "31.5%",
+                        "39.75%",
+                        "48%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "This Rectifier is a ceremonial weapon used by the Jinzhou Magistrate of Huanglong at the inauguration ceremony. The golden ginkgo leaf pattern represents that Huanglong should be like ginkgo, although it is left alone in the world, it is still prosperous and long-lasting.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Autumntrace",
+        "rarity": 4,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "33",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Edge Direction",
+                "description": "Increases ATK by <span class=\"text-refinement\">4%</span> upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s.",
+                "scaling": [
+                    [
+                        "4%",
+                        "6.2%",
+                        "8.4%",
+                        "10.6%",
+                        "12.8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "This Broadblade is a ceremonial weapon used by the Jinzhou Magistrate of the Huanglong province at the inauguration ceremony. The golden ginkgo leaf pattern represents that Huanglong should be like ginkgo, although it is left alone in the world, it is still prosperous and long-lasting.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Broadblade41",
+        "displayName": "Broadblade#41",
+        "rarity": 4,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "33",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Veteran",
+                "description": "When the Resonator's HP is above 80%, increases ATK by <span class=\"text-refinement\">12%</span>. When the Resonator's HP is below 40%, restores their HP by <span class=\"text-refinement\">5%</span> for dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "Improved version of a mass-produced broadblade model developed in Huanglong. With its formidable performance and innovative technologies, this broadblade carries a weight only to be wielded by seasoned warriors.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Cadenza",
+        "rarity": 4,
+        "type": "Pistols",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Ceaseless Aria",
+                "description": "When Resonance Skill is released, restores Concerto Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "An ascending crescendo. These pistols unleash bullets with the force of thunder, tearing through the heavens like a symphony of destruction.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Comet Flare",
+        "rarity": 4,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "33",
+            "subStat": "HP",
+            "passive": {
+                "name": "Luminous Protection",
+                "description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by <span class=\"text-refinement\">3%</span>, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.5%",
+                        "4%",
+                        "4.5%",
+                        "5%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "The Rectifier born from the aerial phenomenon. The forger integrates the feelings of witnessing the alien stars into the weapon, making it look delicate and light, but it can be stable and constant, and it can be responsive.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Commando of Conviction",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Unyielding",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">15%</span>, lasting for 10s.",
+                "scaling": [
+                    [
+                        "15%",
+                        "18.75%",
+                        "22.5%",
+                        "26.25%",
+                        "30%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "A weapon designed to commemorate the Midnight Rangers' courage. \"A thousand echoes carry the war's tale, as spirits unite in resounding gorges of valor.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Dauntless Evernight",
+        "rarity": 4,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "27",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Battlebound",
+                "description": "When Intro Skill is released, increases ATK by <span class=\"text-refinement\">8%</span> and DEF by <span class=\"text-refinement\">15%</span>, lasting for 15s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ],
+                    [
+                        "15%",
+                        "18.75%",
+                        "22.5%",
+                        "26.25%",
+                        "30%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "A weapon designed to commemorate the Midnight Rangers' preparedness. \"Autumn fades in endless nights, ready blades gleam with silent might.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Discord",
+        "rarity": 4,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Ceaseless Aria",
+                "description": "When Resonance Skill is released, restores Concerto Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "A descending adagio. This broadblade dominates the battlefield with the power of discordance. The curtain never falls on a masterpiece.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Gauntlets21D",
+        "displayName": "Gauntlets#21D",
+        "rarity": 4,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "31",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Mastermind",
+                "description": "When the Resonator dashes or dodges, increases ATK by <span class=\"text-refinement\">8%</span>. Increases Counter Attack DMG by <span class=\"text-refinement\">50%</span>, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by <span class=\"text-refinement\">5%</span>. This effect can be triggered 1 time(s) every 6s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ],
+                    [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ],
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "Huaxu Academy has independently improved and developed the first set of highly practical high-performance Gauntlets based on the previous source energy weapons, representing the care and warmth of the Academy, stable and lasting.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Helios Cleaver",
+        "rarity": 4,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Plasma Recoiler",
+                "description": "Within 12s after Resonance Skill is cast, increases ATK by <span class=\"text-refinement\">3%</span> every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.75%",
+                        "4.5%",
+                        "5.25%",
+                        "6%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "The Broadblade born from the aerial phenomenon. The blacksmith incorporates the feelings of witnessing the alien star into the weapon, making it look hollow and light, but it can exert the invincible gravity of the starfall.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Hollow Mirage",
+        "rarity": 4,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Celestial Blessing",
+                "description": "When Resonance Liberation is released, grants 3 stack(s) of Iron Armor. Each stack increases ATK and DEF by <span class=\"text-refinement\">3%</span>, stacking up to 3 time(s). When the Resonator takes damage, reduces the number of stacks by 1.",
+                "scaling": [
+                    [
+                        "3%",
+                        "3.5%",
+                        "4%",
+                        "4.5%",
+                        "5%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "The Gauntlets born from the strange phenomenon in the sky. The blacksmith infused the feelings of witnessing the strange star into the weapon, making it look hollow and light, but it can exert a tremendous momentum while protecting the user.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Jinzhou Keeper",
+        "rarity": 4,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "31",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Guardian",
+                "description": "When Intro Skill is released, increases the caster's ATK by <span class=\"text-refinement\">8%</span> and HP by <span class=\"text-refinement\">10%</span>, lasting for 15s.",
+                "scaling": [
+                    [
+                        "8%",
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%"
+                    ],
+                    [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "A weapon designed to commemorate the Midnight Rangers' vigilant protection for Jinzhou. \"Cast your gaze towards the north, where the city's silhouette fades, its gates veiled by the tranquil rain.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Lumingloss",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "31",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Pale Gale",
+                "description": "When Resonance Skill is released, increases Basic Attack DMG and Heavy Attack DMG by <span class=\"text-refinement\">20%</span>, stacking up to 1 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+                "scaling": [
+                    [
+                        "20%",
+                        "31%",
+                        "42%",
+                        "53%",
+                        "64%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "This Sword is a ceremonial weapon used by the Jinzhou Magistrate of Huanglong at the inauguration ceremony. The golden ginkgo leaf pattern represents that Huanglong should be like ginkgo, although it is left in the world, it is still prosperous and long-lasting.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Lunar Cutter",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Preordained",
+                "description": "Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack increases ATK by <span class=\"text-refinement\">2%</span>, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. Oath reduces by 1 stack(s) every 2s. Equipped Resonator gains an additional 6 stack(s) of Oath upon defeating an enemy.",
+                "scaling": [
+                    [
+                        "2%",
+                        "2.5%",
+                        "3%",
+                        "3.5%",
+                        "4%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "The Sword born from the aerial phenomenon. The forger integrates the feelings of witnessing the alien star into the weapon, making it look light and sharp, but it can exert the energy of breaking the sky and cutting iron like mud.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Marcato",
+        "rarity": 4,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Ceaseless Aria",
+                "description": "When Resonance Skill is released, restores Concerto Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "A descending adagio. These gauntlets pulsate with the power of surging waves, shattering anything in their path like a deadly hymn.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Novaburst",
+        "rarity": 4,
+        "type": "Pistols",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Ever-changing",
+                "description": "When the Resonator dashes or dodges, increases ATK by <span class=\"text-refinement\">4%</span>, stacking up to 3 time(s). This effect lasts for 8s.",
+                "scaling": [
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "Pistols born from the strange phenomena in the sky. The forger infused the weapon with the feelings from witnessing the strange star, making it look hollow and light, yet extremely stable, with the power of thunder when it fires.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Pistols26",
+        "displayName": "Pistols#26",
+        "rarity": 4,
+        "type": "Pistols",
+        "stats": {
+            "atk": "31",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Omniscient",
+                "description": "When the Resonator takes no damage, increases ATK by 6% every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by 5%.",
+                "scaling": [
+                    [
+                        "6%",
+                        "7.5%",
+                        "9%",
+                        "10.5%",
+                        "12%"
+                    ],
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "The Huaxu Academy has independently improved and developed the first highly practical high-performance Pistols based on the previous source energy weapons, representing the Academy's meticulous research and pointing directly to the profound.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Rectifier25",
+        "displayName": "Rectifier#25",
+        "rarity": 4,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Dawnbringer",
+                "description": "When Resonance Skill is released, if the Resonator's HP is below 60%, restores their HP by 5%. This effect can be triggered 1 time(s) every 8s; if the Resonator's HP is above 60%, increases ATK by 12%, lasting for 10s.",
+                "scaling": [
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ],
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "Improved version of a Rectifier prototype from the Huanglong next-gen mass production weaponry project. With surging power and highly purified lens, its sound is only played by the wise of steel-like will.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Scale Slasher",
+        "displayName": "Scale: Slasher",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Ceaseless Aria",
+                "description": "When Resonance Skill is released, restores Concerto Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "An ascending crescendo. This enchanting sword effortlessly cuts through anything in its way, like a glorious prelude.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Stonard",
+        "rarity": 4,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "33",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Wallbreaker",
+                "description": "When Resonance Skill is released, increases the caster's Resonance Liberation DMG Bonus by 18%, lasting for 15s.",
+                "scaling": [
+                    [
+                        "18%",
+                        "27%",
+                        "36%",
+                        "45%",
+                        "54%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "These Gauntlets are ceremonial weapon used at the inauguration ceremony of the Huanglong Magistrate. The golden ginkgo leaf pattern represents that Huanglong should be like a ginkgo, although it is left alone in the world, it is still prosperous and long-lasting.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Sword18",
+        "displayName": "Sword#18",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "31",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Daybreak",
+                "description": "When Equipped Resonator's HP drops below <span class=\"text-refinement\">40%</span>, increases Heavy Attack DMG by <span class=\"text-refinement\">18%</span> and restores HP by <span class=\"text-refinement\">5%</span> upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+                "scaling": [
+                    [
+                        "40%",
+                        "50%",
+                        "60%",
+                        "70%",
+                        "80%"
+                    ],
+                    [
+                        "18%",
+                        "22.5%",
+                        "27%",
+                        "31.5%",
+                        "36%"
+                    ],
+                    [
+                        "5%",
+                        "6.25%",
+                        "7.5%",
+                        "8.75%",
+                        "10%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "Improved version of a mass-produced sword model developed in Huanglong. With its sleek blade and minimalist design, this sword is exclusively crafted for the skilled hands of seasoned warriors.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Thunderbolt",
+        "rarity": 4,
+        "type": "Pistols",
+        "stats": {
+            "atk": "31",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Unstoppable",
+                "description": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by <span class=\"text-refinement\">7%</span>, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+                "scaling": [
+                    [
+                        "7%",
+                        "11%",
+                        "15%",
+                        "19%",
+                        "23%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "These Pistols are ceremonial weapons used in the inauguration ceremony of the Jinzhou Magistrate of Huanglong. The golden ginkgo leaf pattern represents that Huanglong should be like the ginkgo, although it is left in the world, it is still thriving.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Undying Flame",
+        "rarity": 4,
+        "type": "Pistols",
+        "stats": {
+            "atk": "33",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Loyalty",
+                "description": "When Intro Skill is released, increases Resonance Skill DMG Bonus by <span class=\"text-refinement\">20%</span> for 15s.",
+                "scaling": [
+                    [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "A weapon designed to commemorate the Midnight Rangers' dedication. \"Let my body ablaze, flames dance to banish all evil's haze.\"",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 54,
+        "name": "Variation",
+        "rarity": 4,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "27",
+            "subStat": "Energy Regen",
+            "passive": {
+                "name": "Ceaseless Aria",
+                "description": "When Resonance Skill is released, restores Concerto Energy by <span class=\"text-refinement\">8</span>. This effect can be triggered 1 time(s) every 20s.",
+                "scaling": [
+                    [
+                        "8",
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "A descending adagio. This rectifier opens up an insightful window into the situation, changing the tune of the intense battle concerto.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Abyss Surges",
+        "rarity": 5,
+        "type": "Gauntlet",
+        "stats": {
+            "atk": "47",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Stormy Resolution",
+                "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by <span class=\"text-refinement\">10%</span>, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by <span class=\"text-refinement\">10%</span>, lasting for 8s.",
+                "scaling": [
+                    [
+                        "12.8%",
+                        "16%",
+                        "19.2%",
+                        "22.4%",
+                        "25.6%"
+                    ],
+                    [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ],
+                    [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Cadence",
+            "commonMat": "Howler Core"
+        },
+        "description": "The Gauntlets pulsate with an uncontrollable force, emanating unspeakable anger from the depths of the unknown lake. As you don them, unleash your fury on helpless enemies. Feel its power surge through you.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 56,
+        "name": "Cosmic Ripples",
+        "rarity": 5,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "40",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Stormy Resolution",
+                "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by <span class=\"text-refinement\">3.2%</span>, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+                "scaling": [
+                    [
+                        "12.8%",
+                        "16%",
+                        "19.2%",
+                        "22.4%",
+                        "25.6%"
+                    ],
+                    [
+                        "3.2%",
+                        "4%",
+                        "4.8%",
+                        "5.6%",
+                        "6.4%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "Take hold of the frozen Rectifier, a powerful tool imbued with the energy of the celestial lake. Let it lead you to ultimate knowledge and vanquish all obstacles in your path.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Emerald of Genesis",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "47",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Stormy Resolution",
+                "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When Resonance Skill is released, increases ATK by <span class=\"text-refinement\">6%</span>, stacking up to 2 time(s). This effect lasts for 10s.",
+                "scaling": [
+                    [
+                        "12.8%",
+                        "16%",
+                        "19.2%",
+                        "22.4%",
+                        "25.6%"
+                    ],
+                    [
+                        "6%",
+                        "7.5%",
+                        "9%",
+                        "10.5%",
+                        "12%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "Pay heed: the frigid blade reveals an icy current that amalgamates into a whirlpool of thoughts. Use this powerful sequence to crush your enemies with ease using the Sword.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 58,
+        "name": "Lustrous Razor",
+        "rarity": 5,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "47",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Incision",
+                "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When Resonance Skill is released, Resonance Liberation DMG is increased by <span class=\"text-refinement\">7%</span>, stacking up to 3 times. This effect lasts for 12s.",
+                "scaling": [
+                    [
+                        "12.8%",
+                        "16%",
+                        "19.2%",
+                        "22.4%",
+                        "25.6%"
+                    ],
+                    [
+                        "7%",
+                        "8.75%",
+                        "10.5%",
+                        "12.25%",
+                        "14%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "Gaze upon this Broadblade, its sharp edges glistening in the frigid air. As you wield it, you feel the power coursing through like a frozen river.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 59,
+        "name": "Static Mist",
+        "rarity": 5,
+        "type": "Pistols",
+        "stats": {
+            "atk": "47",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Stormy Resolution",
+                "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When Outro Skill is released, increases the switched-in Resonator's ATK by <span class=\"text-refinement\">10%</span>, stacking up to 1 time(s). This effect lasts for 14s.",
+                "scaling": [
+                    [
+                        "12.8%",
+                        "16%",
+                        "19.2%",
+                        "22.4%",
+                        "25.6%"
+                    ],
+                    [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Phlogiston",
+            "commonMat": "Ring"
+        },
+        "description": "Grip the sleek frame and feel its cool surface as you aim down the sight. With a pull of the trigger, unleash a thick smoke barrage onto the battlefield with these powerful Pistols in your hands.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Verdant Summit",
+        "rarity": 5,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "47",
+            "subStat": "Crit. DMG",
+            "passive": {
+                "name": "Swordsworn",
+                "description": "Increases the DMG Bonus of all Resonance Attributes by <span class=\"text-refinement\">12%</span>. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by <span class=\"text-refinement\">24%</span>, stacking up to 2 time(s). This effect lasts for 14s.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "24%",
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "The ancient mountain stands tall, its peak reaching towards the sky. A river flows for thousands of years, forming the blade of a powerful weapon. As it is unsheathed, a powerful dragon's roar echoes through the heavens and earth, causing the sea to churn. This awe-inspiring weapon strikes fear in all who witness its might.",
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Stringmaster",
+        "rarity": 5,
+        "type": "Rectifier",
+        "stats": {
+            "atk": "40",
+            "subStat": "Crit. Rate",
+            "passive": {
+                "name": "Electric Amplification",
+                "description": "Increases the DMG Bonus of all Resonance Attributes by <span class=\"text-refinement\">12%</span>. When Resonance Skill hits a target, increases ATK by <span class=\"text-refinement\">12%</span>, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional <span class=\"text-refinement\">12%</span>.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Helix",
+            "commonMat": "Ring"
+        },
+        "description": "As the puppet palm unfurls, deadly strings are unleashed with a menacing hum. The air crackles with power, immobilizing any foes caught in its grasp. The rapid bolts of electricity leave unhealable scars on their victims.",
+        "release": {
+            "version": "1.0"
+        }
+    }
+]
