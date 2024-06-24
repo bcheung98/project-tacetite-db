@@ -692,7 +692,7 @@
         "type": "",
         "stats": {
             "atk": "24",
-            "subStat": "Crit. DMG",
+            "subStat": "Crit DMG",
             "passive": {
                 "name": "Rejuvenate",
                 "description": "When hitting a target with Basic Attacks, restores HP by <span class=\"text-refinement\">0.5%</span>. This effect can be triggered 1 time(s) every 3s.",
@@ -972,7 +972,7 @@
         "type": "Rectifier",
         "stats": {
             "atk": "33",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Forgiving Resilience",
                 "description": "When Resonance Liberation is released, increases the caster's ATK by <span class=\"text-refinement\">15%</span>, lasting for 15s.",
@@ -1003,7 +1003,7 @@
         "type": "Broadblade",
         "stats": {
             "atk": "33",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Edge Direction",
                 "description": "Increases ATK by <span class=\"text-refinement\">4%</span> upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s.",
@@ -1615,7 +1615,7 @@
         "type": "Gauntlet",
         "stats": {
             "atk": "33",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Wallbreaker",
                 "description": "When Resonance Skill is released, increases the caster's Resonance Liberation DMG Bonus by 18%, lasting for 15s.",
@@ -1868,7 +1868,7 @@
         "type": "Sword",
         "stats": {
             "atk": "47",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Stormy Resolution",
                 "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When Resonance Skill is released, increases ATK by <span class=\"text-refinement\">6%</span>, stacking up to 2 time(s). This effect lasts for 10s.",
@@ -1944,7 +1944,7 @@
         "type": "Pistols",
         "stats": {
             "atk": "47",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Stormy Resolution",
                 "description": "Increases Energy Regen by <span class=\"text-refinement\">12.8%</span>. When Outro Skill is released, increases the switched-in Resonator's ATK by <span class=\"text-refinement\">10%</span>, stacking up to 1 time(s). This effect lasts for 14s.",
@@ -1982,7 +1982,7 @@
         "type": "Broadblade",
         "stats": {
             "atk": "47",
-            "subStat": "Crit. DMG",
+            "subStat": "Crit DMG",
             "passive": {
                 "name": "Swordsworn",
                 "description": "Increases the DMG Bonus of all Resonance Attributes by <span class=\"text-refinement\">12%</span>. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by <span class=\"text-refinement\">24%</span>, stacking up to 2 time(s). This effect lasts for 14s.",
@@ -2020,7 +2020,7 @@
         "type": "Rectifier",
         "stats": {
             "atk": "40",
-            "subStat": "Crit. Rate",
+            "subStat": "Crit Rate",
             "passive": {
                 "name": "Electric Amplification",
                 "description": "Increases the DMG Bonus of all Resonance Attributes by <span class=\"text-refinement\">12%</span>. When Resonance Skill hits a target, increases ATK by <span class=\"text-refinement\">12%</span>, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional <span class=\"text-refinement\">12%</span>.",
