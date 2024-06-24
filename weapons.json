@@ -689,7 +689,7 @@
         "name": "Originite Type IV",
         "displayName": "Originite: Type IV",
         "rarity": 3,
-        "type": "",
+        "type": "Gauntlet",
         "stats": {
             "atk": "24",
             "subStat": "Crit DMG",
