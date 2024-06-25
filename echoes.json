@@ -1,0 +1,1765 @@
+[
+    {
+        "id": 0,
+        "name": "Aero Predator",
+        "code": "W27",
+        "class": "Common",
+        "skill": {
+            "description": "Summon an Aero Predator that throws a dart forward. The dart will bounce between enemies up to three times, dealing <span class=\"text-refinement\">28.80%</span> <span class=\"text-aero\">Aero DMG</span> each time it hits.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "18.00%",
+                    "20.70%",
+                    "23.40%",
+                    "26.10%",
+                    "28.80%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder",
+            "Sierra Gale"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Chirpuff",
+        "code": "H02",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Chirpuff that self-inflates and blasts a powerful gust of wind forward 3 times. Each blast inflicts <span class=\"text-refinement\">38.40%</span> <span class=\"text-aero\">Aero DMG</span> and pushes enemies backwards.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "24.00%",
+                    "27.60%",
+                    "31.20%",
+                    "34.80%",
+                    "38.40%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Cruisewing",
+        "code": "H12",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Cruisewing that restores HP for all current team characters by <span class=\"text-refinement\">1.80%</span> of their Max HPs plus an additional 80 points of HP, up to 4 times.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "1%",
+                    "1.20%",
+                    "1.40%",
+                    "1.60%",
+                    "1.80%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Celestial Light",
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Diamondclaw",
+        "code": "H11",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Crystal Scorpion and enter a Parry State. Counterattack when the Parry State is over, dealing <span class=\"text-refinement\">48.00%+96</span> Physical DMG.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "30.00%+60",
+                    "34.50%+69",
+                    "39.00%+78",
+                    "43.50%+87",
+                    "48.00%+96"
+                ]
+            ]
+        },
+        "sonata": [
+            "Moonlit Clouds",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Electro Predator",
+        "code": "W25",
+        "class": "Common",
+        "skill": {
+            "description": "Summon an Electro Predator to shoot the enemy 5 times. The first 4 shots deals <span class=\"text-refinement\">17.28%</span> <span class=\"text-electro\">Electro DMG</span>, and the last deals <span class=\"text-refinement\">46.08%</span> <span class=\"text-electro\">Electro DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "10.80%",
+                    "12.42%",
+                    "14.04%",
+                    "15.66%",
+                    "17.28%"
+                ],
+                [
+                    "28.80%",
+                    "33.12%",
+                    "37.44%",
+                    "41.76%",
+                    "46.08%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Excarat",
+        "code": "H05",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into an Excarat and tunnel underground to advance. In this state, you have the ability to change your direction and are immune to damage.",
+            "cooldown": 8,
+            "scaling": []
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Fission Junrock",
+        "code": "S09",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Fission Junrock. Generate a Resonance Effect that restores 2% HP for friendly units each time. If not in combat, you can pick up minerals or plants nearby.",
+            "cooldown": 15,
+            "scaling": []
+        },
+        "sonata": [
+            "Void Thunder",
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Kind",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Fusion Dreadmane",
+        "code": "H09",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Fusion Dreadmane that fiercely strikes the enemy, dealing <span class=\"text-refinement\">32.00%+64</span> <span class=\"text-fusion\">Fusion DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Rejuvenating Glow"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Fusion Prism",
+        "code": "N12",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Fusion Prism to fire a crystal shard, dealing <span class=\"text-refinement\">32.00%+64</span> <span class=\"text-fusion\">Fusion DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Molten Rift",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Fusion Warrior",
+        "code": "W30",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Fusion Warrior to perform a Counterattack. If the Counterattack is successful, the cooldown time of this skill will be reduced by 70%, and <span class=\"text-refinement\">288.00%</span> <span class=\"text-fusion\">Fusion DMG</span> will be dealt.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "180.00%",
+                    "207.00%",
+                    "234.00%",
+                    "261.00%",
+                    "288.00%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder",
+            "Sierra Gale"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Glacio Predator",
+        "code": "W26",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Glacio Predator that throws an ice spear, dealing <span class=\"text-refinement\">46.08%</span> <span class=\"text-glacio\">Glacio DMG</span> on hit. Deal <span class=\"text-refinement\">4.61%</span> <span class=\"text-glacio\">Glacio DMG</span> up to 10 times during the charging time, and <span class=\"text-refinement\">23.04%</span> <span class=\"text-glacio\">Glacio DMG</span> when the spear explodes.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "28.80%",
+                    "33.12%",
+                    "37.44%",
+                    "41.76%",
+                    "46.08%"
+                ],
+                [
+                    "2.88%",
+                    "3.31%",
+                    "3.74%",
+                    "4.18%",
+                    "4.61%"
+                ],
+                [
+                    "14.40%",
+                    "16.56%",
+                    "18.72%",
+                    "20.88%",
+                    "23.04%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Glacio Prism",
+        "code": "N11",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Glacio Prism that continuously fires three crystal shards, each dealing <span class=\"text-refinement\">38.40%</span> <span class=\"text-glacio\">Glacio DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "24.00%",
+                    "27.60%",
+                    "31.20%",
+                    "34.80%",
+                    "38.40%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Gulpuff",
+        "code": "H01",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Gulpuff that blows bubbles 5 times, each time dealing <span class=\"text-refinement\">23.04%</span> <span class=\"text-glacio\">Glacio DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "14.40%",
+                    "16.56%",
+                    "18.72%",
+                    "20.88%",
+                    "23.04%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Havoc Prism",
+        "code": "N13",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Havoc Prism to fire five crystal shards, each dealing <span class=\"text-refinement\">23.04%</span> <span class=\"text-havoc\">Havoc DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "14.40%",
+                    "16.56%",
+                    "18.72%",
+                    "20.88%",
+                    "23.04%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder",
+            "Celestial Light",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Havoc Warrior",
+        "code": "W31",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Havoc Warrior to attack up to 3 times, dealing <span class=\"text-refinement\">171.73%</span> <span class=\"text-havoc\">Havoc DMG</span> each time.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "107.33%",
+                    "123.43%",
+                    "139.53%",
+                    "155.63%",
+                    "171.73%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Celestial Light",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Hoartoise",
+        "code": "H15",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Hoartoise and slowly restore HP. Use the Echo skill again to exit the transformation state.",
+            "cooldown": 8,
+            "scaling": []
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "hasPhantom": true,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Hooscamp",
+        "code": "H19",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Hooscamp Flinger and pounce at the enemies, dealing <span class=\"text-refinement\">48.00%+96</span> <span class=\"text-aero\">Aero DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "30.00%+60",
+                    "34.50%+69",
+                    "39.00%+78",
+                    "43.50%+87",
+                    "48.00%+96"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Sabyr Boar",
+        "code": "H08",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Sabyr Boar to headbutt the enemy into the air, dealing <span class=\"text-refinement\">32.00%+64</span> Physical DMG.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Sierra Gale",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Snip Snap",
+        "code": "G02",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Snip Snap that throws fireballs at the enemy, dealing <span class=\"text-refinement\">32.00%+64</span> <span class=\"text-fusion\">Fusion DMG</span> on-hit.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Rejuvenating Glow",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord-Murmurin",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Spectro Prism",
+        "code": "N14",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Spectro Prism to emit a laser that hits the enemy up to 8 times, dealing <span class=\"text-refinement\">14.40%</span> <span class=\"text-spectro\">Spectro DMG</span> each time.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "9.00%",
+                    "10.35%",
+                    "11.70%",
+                    "13.05%",
+                    "14.40%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder",
+            "Celestial Light"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Tick Tack",
+        "code": "G04",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Tick Tack that charges and bites the enemy. The charge from Tick Tack will deal <span class=\"text-refinement\">68.48%</span> <span class=\"text-havoc\">Havoc DMG</span> to the enemy, and the bite will deal <span class=\"text-refinement\">102.72%</span> <span class=\"text-havoc\">Havoc DMG</span> to the enemy. Reduces enemy Vibration Strength by up to 5.00% during 5s.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "42.80%",
+                    "49.22%",
+                    "55.64%",
+                    "62.06%",
+                    "68.48%"
+                ],
+                [
+                    "64.20%",
+                    "73.83%",
+                    "83.46%",
+                    "93.09%",
+                    "102.72%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sun-sinking Eclipse",
+            "Rejuvenating Glow",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord-Murmurin",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Traffic Illuminator",
+        "code": "X54",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Traffic Illuminator, immobilizing enemies for up to 1s. The immobilization will be lifted once the enemy is hit.",
+            "cooldown": 15,
+            "scaling": []
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder",
+            "Sierra Gale"
+        ],
+        "hasPhantom": false,
+        "type": "",
+        "nation": [],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Vanguard Junrock",
+        "code": "S08",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Vanguard Junrock that charges forward, dealing <span class=\"text-refinement\">32.00%+64</span> Physical DMG to enemies in its path.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder",
+            "Rejuvenating Glow",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Kind",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Whiff Whaff",
+        "code": "G01",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Whiff Whaff that triggers an air explosion, dealing <span class=\"text-refinement\">51.36%</span> <span class=\"text-aero\">Aero DMG</span> and produce a Low-pressure Zone. The Low-pressure Zone continuously pulls enemies nearby towards the center for 2s, dealing <span class=\"text-refinement\">19.97%</span> <span class=\"text-aero\">Aero DMG</span> up to 6 times.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "32.10%",
+                    "36.92%",
+                    "41.73%",
+                    "46.55%",
+                    "51.36%"
+                ],
+                [
+                    "12.48%",
+                    "14.35%",
+                    "16.22%",
+                    "18.10%",
+                    "19.97%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord-Murmurin",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Young Geohide Saurian",
+        "code": "H06",
+        "class": "Common",
+        "skill": {
+            "description": "Transform into Baby Viridblaze Saurian to rest in place, and slowly restore HP.",
+            "cooldown": 8,
+            "scaling": []
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Young Roseshroom",
+        "code": "S05",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Baby Roseshroom that fires a laser, dealing <span class=\"text-refinement\">32.00%+64</span> <span class=\"text-havoc\">Havoc DMG</span>.",
+            "cooldown": 8,
+            "scaling": [
+                [
+                    "20.00%+40",
+                    "23.00%+46",
+                    "26.00%+52",
+                    "29.00%+58",
+                    "32.00%+64"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Zig Zag",
+        "code": "G03",
+        "class": "Common",
+        "skill": {
+            "description": "Summon a Zig Zag that denotates Spectro energy, dealing <span class=\"text-refinement\">48.00%+96</span> <span class=\"text-spectro\">Spectro DMG</span> and creating a Stagnation Zone that lasts 1.8s.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "30.00%+60",
+                    "34.50%+69",
+                    "39.00%+78",
+                    "43.50%+87",
+                    "48.00%+96"
+                ]
+            ]
+        },
+        "sonata": [
+            "Celestial Light",
+            "Moonlit Clouds",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord-Murmurin",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Autopuppet Scout",
+        "code": "X53",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Autopuppet Scout, dealing <span class=\"text-refinement\">272.00%</span> <span class=\"text-glacio\">Glacio DMG</span> to the surroundings, and generate up to 3 Ice Walls to block off the enemies.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "170.00%",
+                    "195.50%",
+                    "221.00%",
+                    "246.50%",
+                    "272.00%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "hasPhantom": false,
+        "type": "",
+        "nation": [],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Chaserazor",
+        "code": "R55",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Carapace to perform a spinning attack that deals <span class=\"text-refinement\">112.00%</span> <span class=\"text-aero\">Aero DMG</span>, followed by a slash that deals <span class=\"text-refinement\">168.00%</span> <span class=\"text-aero\">Aero DMG</span>.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "70.00%",
+                    "80.50%",
+                    "91.00%",
+                    "101.50%",
+                    "112.00%"
+                ],
+                [
+                    "105.00%",
+                    "120.75%",
+                    "136.50%",
+                    "152.25%",
+                    "168.00%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Artificial Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Chasm Guardian",
+        "code": "W62",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Chasm Guardian to perform a Leap Strike that deals <span class=\"text-refinement\">273.60%</span> <span class=\"text-havoc\">Havoc DMG</span> on hit. Current character loses 10.00% HP after the hit lands. Periodically restore current character's HP after 5s for up to 10.00% of their Max HP.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "171.00%",
+                    "196.65%",
+                    "222.30%",
+                    "247.95%",
+                    "273.60%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Rejuvenating Glow",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Cyan-Feathered Heron",
+        "code": "H41",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Cyan-Feathered Heron and charge at the enemies, dealing <span class=\"text-refinement\">236.80%</span> <span class=\"text-aero\">Aero DMG</span>; This Echo Skill interrupts enemy <span class=\"text-highlight\">Special Skills</span> upon dealing damage.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "148.00%",
+                    "170.20%",
+                    "192.40%",
+                    "214.60%",
+                    "236.80%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Celestial Light"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Flautist",
+        "code": "W61",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Flautist, continuously emitting Electro lasers, dealing <span class=\"text-refinement\">53.28%</span> <span class=\"text-electro\">Electro DMG</span> for a total of 10 times. Gain 1 Concerto Energy every time a hit lands.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "33.30%",
+                    "38.30%",
+                    "43.29%",
+                    "48.29%",
+                    "53.28%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Geohide Saurian",
+        "code": "H46",
+        "class": "Elite",
+        "skill": {
+            "description": "Summon a Viridblaze Saurian to continuously spit fire, dealing <span class=\"text-refinement\">17.12%</span> <span class=\"text-fusion\">Fusion DMG</span> 10 times.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "10.70%",
+                    "12.31%",
+                    "13.91%",
+                    "15.52%",
+                    "17.12%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Havoc Dreadmane",
+        "code": "H49",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Havoc Dreadmane to perform tail strikes up to 2 times. Each strike deals <span class=\"text-refinement\">116.64%</span> <span class=\"text-havoc\">Havoc DMG</span>. An additional strike will be performed on hit, dealing <span class=\"text-refinement\">77.76%</span> <span class=\"text-havoc\">Havoc DMG</span>.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "72.90%",
+                    "83.84%",
+                    "94.77%",
+                    "105.71%",
+                    "116.64%"
+                ],
+                [
+                    "48.60%",
+                    "55.89%",
+                    "63.18%",
+                    "70.47%",
+                    "77.76%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Hoochief",
+        "code": "H51",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Hoochief Cyclone and smack the enemies, dealing <span class=\"text-refinement\">268.20%</span> <span class=\"text-aero\">Aero DMG</span>.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "149%",
+                    "178.80%",
+                    "208.60%",
+                    "238.40%",
+                    "268.20%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale",
+            "Rejuvenating Glow"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Rocksteady Guardian",
+        "code": "W63",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Rocksteady Guardian and enter a Parry State. Upon being attacked, deal <span class=\"text-spectro\">Spectro DMG</span> equal to <span class=\"text-refinement\">8.29%</span> of the current character's Max HP, and perform a follow-up attack that deals <span class=\"text-spectro\">Spectro DMG</span> equal to <span class=\"text-refinement\">8.29%</span> of the current character's Max HP.<br /><br />Use the Echo skill again to exit the transformation.<br /><br />If the attack received is a <span class=\"text-highlight\">Special Skill</span> attack, interrupt the enemy's <span class=\"text-highlight\">Special Skill</span>, gain a Shield equal to 30% Max HP, and perform a two-stage follow-up attack, each inflicting <span class=\"text-spectro\">Spectro DMG</span> equal to <span class=\"text-refinement\">5.52%</span> of the current character's max HP. These follow-up attacks simultaneously launch three ground-breaking waves, each inflicting <span class=\"text-spectro\">Spectro DMG</span> equal to <span class=\"text-refinement\">4.59%</span> of the current character's Max HP.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "5.18%",
+                    "5.96%",
+                    "6.73%",
+                    "7.51%",
+                    "8.29%"
+                ],
+                [
+                    "5.18%",
+                    "5.96%",
+                    "6.73%",
+                    "7.51%",
+                    "8.29%"
+                ],
+                [
+                    "3.45%",
+                    "3.97%",
+                    "4.49%",
+                    "5.00%",
+                    "5.52%"
+                ],
+                [
+                    "2.87%",
+                    "3.30%",
+                    "3.73%",
+                    "4.16%",
+                    "4.59%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Celestial Light",
+            "Rejuvenating Glow"
+        ],
+        "hasPhantom": true,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Roseshroom",
+        "code": "S06",
+        "class": "Elite",
+        "skill": {
+            "description": "Summon a Roseshroom that fires a laser, dealing <span class=\"text-refinement\">57.07%</span> <span class=\"text-havoc\">Havoc DMG</span> up to 3 times.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "35.67%",
+                    "41.02%",
+                    "46.37%",
+                    "51.72%",
+                    "57.07%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Spearback",
+        "code": "H48",
+        "class": "Elite",
+        "skill": {
+            "description": "Summon a Spearback to perform 5 consecutive attacks. The first 4 attacks deal <span class=\"text-refinement\">29.96%</span> Physical DMG, and the last deals <span class=\"text-refinement\">51.36%</span> Physical DMG.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "18.73%",
+                    "21.53%",
+                    "24.34%",
+                    "27.15%",
+                    "29.96%"
+                ],
+                [
+                    "32.10%",
+                    "36.92%",
+                    "41.73%",
+                    "46.55%",
+                    "51.36%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Moonlit Clouds",
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Flora",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Stonewall Bracer",
+        "code": "S55",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Stonewall Bracer and charge forward, dealing <span class=\"text-refinement\">112.64%</span> Physical DMG on-hit, then smash to deal <span class=\"text-refinement\">168.96%</span> Physical DMG, and gain a shield of 10.00% of current character's Max HP that lasts 7s. Use the Echo skill again to exit the transformation state.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "70.40%",
+                    "80.96%",
+                    "91.52%",
+                    "102.08%",
+                    "112.64%"
+                ],
+                [
+                    "105.60%",
+                    "121.44%",
+                    "137.28%",
+                    "153.12%",
+                    "168.96%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Natural Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Tambourinist",
+        "code": "W60",
+        "class": "Elite",
+        "skill": {
+            "description": "Summon a Tambourinist that periodically emits Melodies of Annihilation. Friendly units hit with Melodies of Annihilation deal an extra <span class=\"text-refinement\">14.40%</span> <span class=\"text-havoc\">Havoc DMG</span> with their attacks, up to 10 times.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "9.00%",
+                    "10.35%",
+                    "11.70%",
+                    "13.05%",
+                    "14.40%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Violet-Feathered Heron",
+        "code": "H42",
+        "class": "Elite",
+        "skill": {
+            "description": "Transform into Violet-Feathered Heron and enter a Parry Stance. Counterattack when the Parry stance is over, dealing <span class=\"text-refinement\">288.00%</span> <span class=\"text-electro\">Electro DMG</span>. If attacked during Parry Stance, you can counterattack in advance and additionally recover 5 Concerto Energy.",
+            "cooldown": 15,
+            "scaling": [
+                [
+                    "180.00%",
+                    "207.00%",
+                    "234.00%",
+                    "261.00%",
+                    "288.00%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift",
+            "Void Thunder"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Crownless",
+        "code": "H80",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Crownless and perform up to 4 consecutive attacks. The first 2 attacks deal <span class=\"text-refinement\">134.08%</span> <span class=\"text-havoc\">Havoc DMG</span> each, the 3rd attack deals <span class=\"text-refinement\">100.56%</span> <span class=\"text-havoc\">Havoc DMG</span> 2 times, and the 4th attack deals <span class=\"text-refinement\">67.04%</span> <span class=\"text-havoc\">Havoc DMG</span> 3 times.<br /><br />After the transformation, increase current character's <span class=\"text-havoc\">Havoc DMG</span> by 12.00% and Resonance Skill DMG by 12.00% for 15s.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "83.80%",
+                    "96.37%",
+                    "108.94%",
+                    "121.51%",
+                    "134.08%"
+                ],
+                [
+                    "62.85%",
+                    "72.28%",
+                    "81.71%",
+                    "91.13%",
+                    "100.56%"
+                ],
+                [
+                    "41.90%",
+                    "48.19%",
+                    "54.47%",
+                    "60.76%",
+                    "67.04%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Threnodian Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Feilian Beringal",
+        "code": "H71",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Feilian Beringal to perform a powerful kick. If the kick lands on an enemy, immediately perform a follow-up strike. The kick deals <span class=\"text-refinement\">231.84%</span> <span class=\"text-aero\">Aero DMG</span>, and the follow-up strike deals <span class=\"text-refinement\">283.36%</span> <span class=\"text-aero\">Aero DMG</span>.<br /><br />After the follow-up strike hits, the current character's <span class=\"text-aero\">Aero DMG</span> increases by 12.00%, and the Heavy Attack DMG increases by 12.00% for 15s",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "144.90%",
+                    "166.64%",
+                    "188.37%",
+                    "210.11%",
+                    "231.84%"
+                ],
+                [
+                    "177.10%",
+                    "203.67%",
+                    "230.23%",
+                    "256.80%",
+                    "283.36%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sierra Gale"
+        ],
+        "hasPhantom": true,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Impermanence Heron",
+        "code": "H72",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Impermanence Heron to fly up and smack down, dealing <span class=\"text-refinement\">310.56%</span> <span class=\"text-havoc\">Havoc DMG</span>.<br /><br />Long press to stay as Impermanence Heron and continuously spit flames, each attack dealing <span class=\"text-refinement\">55.73%</span> <span class=\"text-havoc\">Havoc DMG</span>.<br /><br />Once the initial attack lands on any enemy, the current character regains 10 Resonance Energy. If the current character uses their Outro Skill within the next 15s, the next character's damage dealt will be boosted by 12% for 15s.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "194.10%",
+                    "223.22%",
+                    "252.33%",
+                    "281.45%",
+                    "310.56%"
+                ],
+                [
+                    "34.83%",
+                    "40.05%",
+                    "45.28%",
+                    "50.50%",
+                    "55.73%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": true,
+        "type": "",
+        "nation": [],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Inferno Rider",
+        "code": "W77",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Inferno Rider to launch up to 3 consecutive slashes in a row, each slash dealing <span class=\"text-refinement\">242.40%</span>, <span class=\"text-refinement\">282.80%</span>, and <span class=\"text-refinement\">282.80%</span> <span class=\"text-fusion\">Fusion DMG</span> respectively.<br /><br />After the final hit, increase the current character's <span class=\"text-fusion\">Fusion DMG</span> by 12.00% and Basic Attack DMG by 12.00% for 15s.<br /><br />Long press the Echo Skill to transform into Inferno Rider and enter the Riding Mode. When exiting the Riding Mode, deal <span class=\"text-refinement\">282.80%</span> <span class=\"text-fusion\">Fusion DMG</span> to enemies in front.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "151.50%",
+                    "174.23%",
+                    "196.95%",
+                    "219.68%",
+                    "242.40%"
+                ],
+                [
+                    "176.75%",
+                    "203.26%",
+                    "229.78%",
+                    "256.29%",
+                    "282.80%"
+                ],
+                [
+                    "176.75%",
+                    "203.26%",
+                    "229.78%",
+                    "256.29%",
+                    "282.80%"
+                ],
+                [
+                    "176.75%",
+                    "203.26%",
+                    "229.78%",
+                    "256.29%",
+                    "282.80%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Molten Rift"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Lampylumen Myriad",
+        "code": "N74",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Lampylumen Myriad. Perform up to 3 consecutive attacks.<br /><br />Unleash a freezing shock by performing consecutive forward strikes, with the initial two strikes inflicting <span class=\"text-refinement\">200.16%</span> and <span class=\"text-refinement\">200.16%</span> <span class=\"text-glacio\">Glacio DMG</span> respectively, and the final strike dealing <span class=\"text-refinement\">266.88%</span> <span class=\"text-glacio\">Glacio DMG</span>. Enemies will be frozen on hit.<br /><br />Each shock increases the current character's <span class=\"text-glacio\">Glacio DMG</span> by 4.00% and Resonance Skill DMG dealt by 4.00% for 15s, stacking up to 3 times",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "125.10%",
+                    "143.87%",
+                    "162.63%",
+                    "181.40%",
+                    "200.16%"
+                ],
+                [
+                    "125.10%",
+                    "143.87%",
+                    "162.63%",
+                    "181.40%",
+                    "200.16%"
+                ],
+                [
+                    "166.80%",
+                    "191.82%",
+                    "216.84%",
+                    "241.86%",
+                    "266.88%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Freezing Frost"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disordered Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Mech Abomination",
+        "code": "R56",
+        "class": "Overlord",
+        "skill": {
+            "description": "Strike the enemies in front, dealing <span class=\"text-refinement\">48.64%</span> <span class=\"text-electro\">Electro DMG</span>. Summon Mech Waste to attack enemies. Mech Waste deals <span class=\"text-refinement\">320.00%</span> <span class=\"text-electro\">Electro DMG</span> on-hit and explode after a while to deal <span class=\"text-refinement\">160.00%</span> <span class=\"text-electro\">Electro DMG</span>.<br /><br />After casting this Echo Skill, increase current character's ATK by 12.00% for 15s.<br />Damage dealt by Mech Waste is considered Outro Skill DMG.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "30.40%",
+                    "34.96%",
+                    "39.52%",
+                    "44.08%",
+                    "48.64%"
+                ],
+                [
+                    "200.00%",
+                    "230.00%",
+                    "260.00%",
+                    "290.00%",
+                    "320.00%"
+                ],
+                [
+                    "100.00%",
+                    "115.00%",
+                    "130.00%",
+                    "145.00%",
+                    "160.00%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Lingering Tunes"
+        ],
+        "hasPhantom": false,
+        "type": "",
+        "nation": [],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Mourning Aix",
+        "code": "H73",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Mourning Aix and perform 2 consecutive claw attacks, each attack dealing <span class=\"text-refinement\">157.44%</span> and <span class=\"text-refinement\">236.16%</span> <span class=\"text-spectro\">Spectro DMG</span> respectively.<br /><br />After the transformation, increase current character's <span class=\"text-spectro\">Spectro DMG</span> by 12.00% and Resonance Liberation DMG by 12.00% for 15s",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "98.40%",
+                    "113.16%",
+                    "127.92%",
+                    "142.68%",
+                    "157.44%"
+                ],
+                [
+                    "147.60%",
+                    "169.74%",
+                    "191.88%",
+                    "214.02%",
+                    "236.16%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Celestial Light"
+        ],
+        "hasPhantom": true,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Tempest Mephis",
+        "code": "W75",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Tempest Mephis to perform tail swing attacks followed by a claw attack. The lightning strike summoned by the tail swing deals <span class=\"text-refinement\">102.48%</span> <span class=\"text-electro\">Electro DMG</span> each time, while the claw attack deals <span class=\"text-refinement\">175.68%</span> <span class=\"text-electro\">Electro DMG</span>.<br /><br />After the claw hit, increase the current character's <span class=\"text-electro\">Electro DMG</span> by 12.00% and Heavy Attack DMG by 12.00% for 15s.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "64.05%",
+                    "73.66%",
+                    "83.27%",
+                    "92.87%",
+                    "102.48%"
+                ],
+                [
+                    "109.80%",
+                    "126.27%",
+                    "142.74%",
+                    "159.21%",
+                    "175.68%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder"
+        ],
+        "hasPhantom": false,
+        "type": "Tacet Discord - Disordered Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Thundering Mephis",
+        "code": "W76",
+        "class": "Overlord",
+        "skill": {
+            "description": "Transform into Thundering Mephis, engaging in a rapid assault of up to 6 strikes. The first 5 strikes deal <span class=\"text-refinement\">132.61%</span> <span class=\"text-electro\">Electro DMG</span> each, while the final strike inflicts <span class=\"text-refinement\">189.44%</span> <span class=\"text-electro\">Electro DMG</span>, with an additional <span class=\"text-refinement\">31.57%</span> <span class=\"text-electro\">Electro DMG</span> from the thunder.<br /><br />After the final hit, increase the current character's <span class=\"text-electro\">Electro DMG</span> by 12.00% and Resonance Liberation DMG by 12.00% for 15s.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "82.88%",
+                    "95.31%",
+                    "107.74%",
+                    "120.18%",
+                    "132.61%"
+                ],
+                [
+                    "118.40%",
+                    "136.16%",
+                    "153.92%",
+                    "171.68%",
+                    "189.44%"
+                ],
+                [
+                    "19.73%",
+                    "22.69%",
+                    "25.65%",
+                    "28.61%",
+                    "31.57%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Void Thunder"
+        ],
+        "hasPhantom": true,
+        "type": "Tacet Discord - Disorder Species",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Bell-Borne Geochelone",
+        "code": "H91",
+        "class": "Calamity",
+        "skill": {
+            "description": "Activate the protection of Bell-Borne Geochelone. Deal <span class=\"text-glacio\">Glacio DMG</span> based on <span class=\"text-refinement\">145.92%</span> of the current character's DEF to nearby enemies, and obtain a Bell-Borne Shield that lasts for 15s<br /><br />The Bell-Borne Shield provides 50.00% DMG Reduction and 10.00% DMG Boost for the current team members, and disappears after the current character is hit for 3 times.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "91.20%",
+                    "104.88%",
+                    "118.56%",
+                    "132.24%",
+                    "145.92%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "hasPhantom": false,
+        "type": "Mutant Fauna",
+        "nation": [
+            "Huanglong"
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Dreamless",
+        "code": "H81",
+        "class": "Calamity",
+        "skill": {
+            "description": "Transform into Dreamless and perform 6 consecutive attacks. The first 5 attacks deal <span class=\"text-refinement\">54.08%</span> <span class=\"text-havoc\">Havoc DMG</span> each, and the last attack deal <span class=\"text-refinement\">270.40%</span> <span class=\"text-havoc\">Havoc DMG</span>.<br />For 5s after Rover-Havoc casts Resonance Liberation, the DMG of this Echo Skill is increased by 50%.",
+            "cooldown": 20,
+            "scaling": [
+                [
+                    "33.80%",
+                    "38.87%",
+                    "43.94%",
+                    "49.01%",
+                    "54.08%"
+                ],
+                [
+                    "169.00%",
+                    "194.35%",
+                    "219.70%",
+                    "245.05%",
+                    "270.40%"
+                ]
+            ]
+        },
+        "sonata": [
+            "Sun-sinking Eclipse"
+        ],
+        "hasPhantom": false,
+        "type": "",
+        "nation": [],
+        "release": {
+            "version": "1.0"
+        }
+    }
+]
