@@ -2659,7 +2659,7 @@
     {
         "id": 5,
         "name": "Encore",
-        "title": "Wooly–counting Game",
+        "title": "Wooly–Counting Game",
         "rarity": 5,
         "element": "Fusion",
         "weapon": "Rectifier",
@@ -9958,6 +9958,1216 @@
         "release": {
             "date": "June 6, 2024",
             "version": "1.0"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Jinhsi",
+        "title": "Thawborn Renewal",
+        "rarity": 5,
+        "element": "Spectro",
+        "weapon": "Broadblade",
+        "forte": {
+            "attack": {
+                "name": "Slash of Breaking Dawn",
+                "description": "<span class=\"text-header\">Basic Attack</span><br />Jinhsi performs up to 4 consecutive attacks, dealing <span class=\"text-spectro\">Spectro DMG</span>.<br /><br /><span class=\"text-header\">Heavy Attack</span><br />Jinhsi consumes STA to attack the target, dealing <span class=\"text-spectro\">Spectro DMG</span>.<br /><br /><span class=\"text-header\">Mid-air Attack</span><br />Consumes STA to perform a Mid-air Plunging Attack, dealing <span class=\"text-spectro\">Spectro DMG</span>.<br /><br /><span class=\"text-header\">Dodge Counter</span><br />Use <span class=\"text-highlight\">Basic Attack</span> after a successful <span class=\"text-highlight\">Dodge</span> to attack the target, dealing <span class=\"text-spectro\">Spectro DMG</span>.",
+                "scaling": [
+                    [
+                        "Stage 1 DMG",
+                        "33.43%",
+                        "36.18%",
+                        "38.92%",
+                        "42.75%",
+                        "45.50%",
+                        "48.65%",
+                        "53.03%",
+                        "57.42%",
+                        "61.81%",
+                        "66.47%"
+                    ],
+                    [
+                        "Stage 2 DMG",
+                        "19.61% + 9.81%*3",
+                        "21.22% + 10.61%*3",
+                        "22.83% + 11.42%*3",
+                        "25.08% + 12.54%*3",
+                        "26.69% + 13.35%*3",
+                        "28.54% + 14.27%*3",
+                        "31.11% + 15.56%*3",
+                        "33.68% + 16.84%*3",
+                        "36.26% + 18.13%*3",
+                        "38.99% + 19.50%*3"
+                    ],
+                    [
+                        "Stage 3 DMG",
+                        "5.36%*7 + 16.07%",
+                        "5.80%*7 + 17.39%",
+                        "6.24%*7 + 18.70%",
+                        "6.85%*7 + 20.55%",
+                        "7.29%*7 + 21.86%",
+                        "7.80%*7 + 23.38%",
+                        "8.50%*7 + 25.49%",
+                        "9.20%*7 + 27.59%",
+                        "9.90%*7 + 29.70%",
+                        "10.65%*7 + 31.94%"
+                    ],
+                    [
+                        "Stage 4 DMG",
+                        "31.74% + 47.60%",
+                        "34.34% + 51.51%",
+                        "36.94% + 55.41%",
+                        "40.58% + 60.87%",
+                        "43.19% + 64.78%",
+                        "46.18% + 69.26%",
+                        "50.34% + 75.51%",
+                        "54.50% + 81.75%",
+                        "58.67% + 88.00%",
+                        "63.09% + 94.63%"
+                    ],
+                    [
+                        "Heavy Attack DMG",
+                        "12.00%*5 + 18.00% + 42.00%",
+                        "12.99%*5 + 19.48% + 45.45%",
+                        "13.97%*5 + 20.96% + 48.89%",
+                        "15.35%*5 + 23.02% + 53.71%",
+                        "16.33%*5 + 24.50% + 57.16%",
+                        "17.47%*5 + 26.20% + 61.12%",
+                        "19.04%*5 + 28.56% + 66.63%",
+                        "20.61%*5 + 30.92% + 72.14%",
+                        "22.19%*5 + 33.28% + 77.65%",
+                        "23.86%*5 + 35.79% + 83.51%"
+                    ],
+                    [
+                        "Heavy Attack STA Cost",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25"
+                    ],
+                    [
+                        "Mid-air Attack DMG",
+                        "6.20% + 12.40% + 43.40%",
+                        "6.71% + 13.42% + 46.96%",
+                        "7.22% + 14.44% + 50.52%",
+                        "7.93% + 15.86% + 55.50%",
+                        "8.44% + 16.88% + 59.06%",
+                        "9.03% + 18.05% + 63.16%",
+                        "9.84% + 19.68% + 68.85%",
+                        "10.65% + 21.30% + 74.54%",
+                        "11.47% + 22.93% + 80.24%",
+                        "12.33% + 24.66% + 86.29%"
+                    ],
+                    [
+                        "Mid-air Attack STA Cost",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30"
+                    ],
+                    [
+                        "Dodge Counter DMG",
+                        "7.38%*7 + 22.14%",
+                        "7.99%*7 + 23.96%",
+                        "8.59%*7 + 25.77%",
+                        "9.44%*7 + 28.32%",
+                        "10.05%*7 + 30.13%",
+                        "10.74%*7 + 32.22%",
+                        "11.71%*7 + 35.12%",
+                        "12.68%*7 + 38.03%",
+                        "13.65%*7 + 40.93%",
+                        "14.68%*7 + 44.02%"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 1.20%."
+                    },
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 2.80%."
+                    }
+                ]
+            },
+            "skill": {
+                "name": "Trailing Lights of Eons",
+                "description": "Dash forward and perform consecutive strikes that inflict <span class=\"text-spectro\">Spectro DMG</span>.<br /><br /><span class=\"text-header\">Overflowing Radiance</span><br />After Jinhsi uses <span class=\"text-highlight\">Basic Attack 4</span> or, while not in <span class=\"text-highlight\">Incarnation</span>, Intro Skill <span class=\"text-highlight\">Loong's Halo</span>, an alternative Resonance Skill <span class=\"text-highlight\">Overflowing Radiance</span> becomes available within 5s.<br />Resonance Skill <span class=\"text-highlight\">Overflowing Radiance</span> inflicts <span class=\"text-spectro\">Spectro DMG</span> and sends Jinhsi into <span class=\"text-highlight\">Incarnation</span>.<br />Can be cast in mid-air.",
+                "scaling": [
+                    [
+                        "Skill DMG",
+                        "9.79%*4 + 39.15%",
+                        "10.60%*4 + 42.37%",
+                        "11.40%*4 + 45.58%",
+                        "12.52%*4 + 50.07%",
+                        "13.32%*4 + 53.28%",
+                        "14.25%*4 + 56.97%",
+                        "15.53%*4 + 62.11%",
+                        "16.82%*4 + 67.25%",
+                        "18.10%*4 + 72.38%",
+                        "19.46%*4 + 77.84%"
+                    ],
+                    [
+                        "Cooldown",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s",
+                        "3s"
+                    ],
+                    [
+                        "Overflowing Radiance DMG",
+                        "4.96%*4 + 14.88%*4 + 19.84%",
+                        "5.37%*4 + 16.11%*4 + 21.47%",
+                        "5.78%*4 + 17.33%*4 + 23.10%",
+                        "6.35%*4 + 19.03%*4 + 25.38%",
+                        "6.75%*4 + 20.25%*4 + 27.00%",
+                        "7.22%*4 + 21.66%*4 + 28.87%",
+                        "7.87%*4 + 23.61%*4 + 31.48%",
+                        "8.52%*4 + 25.56%*4 + 34.08%",
+                        "9.17%*4 + 27.51%*4 + 36.68%",
+                        "9.87%*4 + 29.59%*4 + 39.45%"
+                    ],
+                    [
+                        "Incarnation Duration",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s"
+                    ],
+                    [
+                        "Overflowing Radiance Cooldown",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s",
+                        "12s"
+                    ],
+                    [
+                        "Overflowing Radiance Concerto Regen",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4",
+                        "4"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 1.80%."
+                    },
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 4.20%."
+                    }
+                ]
+            },
+            "ultimate": {
+                "name": "Purge of Light",
+                "description": "Unleash the power of a heart's wish to deal <span class=\"text-spectro\">Spectro DMG</span>.<br />Can be cast in mid-air.",
+                "scaling": [
+                    [
+                        "Skill DMG",
+                        "251.40% + 586.60%",
+                        "272.02% + 634.71%",
+                        "292.63% + 682.81%",
+                        "321.50% + 750.15%",
+                        "342.11% + 798.25%",
+                        "365.82% + 853.57%",
+                        "398.80% + 930.53%",
+                        "431.78% + 1007.49%",
+                        "464.77% + 1084.45%",
+                        "499.81% + 1166.22%"
+                    ],
+                    [
+                        "Cooldown",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s",
+                        "24s"
+                    ],
+                    [
+                        "Concerto Regen",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20"
+                    ],
+                    [
+                        "RES Cost",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 1.80%."
+                    },
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 4.20%."
+                    }
+                ]
+            },
+            "circuit": {
+                "name": "Luminal Synthesis",
+                "description": "<span class=\"text-header\">Incarnation</span><br />While in <span class=\"text-highlight\">Incarnation</span>:<li>Alternative Basic Attack <span class=\"text-highlight\">\"Incarnation: Basic Attack\"</span> becomes available. Perform up to 4 consecutive strikes, dealing <span class=\"text-spectro\">Spectro DMG</span>. The basic attack cycle of this will not be reset. Can be cast in mid-air.</li><li>Alternative Resonance Skill <span class=\"text-highlight\">\"Crescent Divinity\"</span> becomes available. Deal <span class=\"text-spectro\">Spectro DMG</span>. Can be cast in mid-air.</li><li>Alternative Heavy Attack <span class=\"text-highlight\">\"Incarnation: Heavy Attack\"</span> becomes available. Attack the target in mid-air at the cost of Stamina, dealing <span class=\"text-spectro\">Spectro DMG</span>.</li><li>Alternative Dodge <span class=\"text-highlight\">\"Incarnation: Dodge\"</span> becomes available while airborne. Can be cast multiple times at the cost of Stamina.</li><li>Alternative Dodge Counter <span class=\"text-highlight\">\"Incarnation: Dodge Counter\"</span> becomes available. Deal <span class=\"text-spectro\">Spectro DMG</span>.</li>Can be cast in mid-air.<br /><br /><span class=\"text-header\">Resonance Skill: Illuminous Epiphany</span><br />After Stage 4 of <span class=\"text-highlight\">Incarnation: Basic Attack</span>, <span class=\"text-highlight\">Incarnation</span> terminates and Jinhsi gains Ordination Glow.<br />Can be cast in mid-air.<br />While <span class=\"text-highlight\">Ordination Glow</span> lasts:<li>Basic Attack is replaced with the Alternative Heavy Attack <span class=\"text-highlight\">\"Incarnation: Heavy Attack\"</span> when airborne. Attack the target in mid-air at the cost of Stamina, dealing <span class=\"text-spectro\">Spectro DMG</span>.</li>Resonance Skill is replaced with Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span>. Send out <span class=\"text-highlight\">Solar Flare</span> that detonates as <span class=\"text-highlight\">Stella Glamour</span> that deals <span class=\"text-spectro\">Spectro DMG</span> after a short delay. When Jinhsi has \"Incandescence\", consume up to 50 Incandescence, each point of Incandescence grants an additional DMG multiplier percentage to the <span class=\"text-highlight\">Star Glamour</span>. Can be cast in mid-air.<br />After casting Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span>, Jinhsi gains <span class=\"text-highlight\">Unison</span>. This can be triggered once in 25s.<br /><br /><span class=\"text-header\">Unison</span><br />While Jinhsi has <span class=\"text-highlight\">Unison</span>, switching to other Characters will remove Jinhsi's <span class=\"text-highlight\">Unison</span> to trigger Jinhsi's Outro Skill and the incoming character's Intro Skill. <span class=\"text-highlight\">Unison</span> will be consumed in priority in place of Concerto Energy when Concerto Energy is full.<br /><br /><span class=\"text-header\">Incandescence</span><br />Jinhsi can hold up to 50 Incandescence.<br />When Jinhsi is on the team, all nearby characters on the team gain <span class=\"text-highlight\">Eras in Unity</span>. When characters with <span class=\"text-highlight\">Eras in Unity</span> deal Damage with an attribute, Jinhsi gains 1 Incandescence. Damage of the same attribute can provide up to 1 Incandescence every 3s.",
+                "scaling": [
+                    [
+                        "Ordination Glow Duration",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s"
+                    ],
+                    [
+                        "Incarnation: Basic Attack 1 DMG",
+                        "44.58%",
+                        "48.23%",
+                        "51.89%",
+                        "57.00%",
+                        "60.66%",
+                        "64.86%",
+                        "70.71%",
+                        "76.56%",
+                        "82.41%",
+                        "88.62%"
+                    ],
+                    [
+                        "Incarnation: Basic Attack 2 DMG",
+                        "39.22% + 13.08% + 13.08%",
+                        "42.44% + 14.15% + 14.15%",
+                        "45.65% + 15.22% + 15.22%",
+                        "50.16% + 16.72% + 16.72%",
+                        "53.37% + 17.79% + 17.79%",
+                        "57.07% + 19.03% + 19.03%",
+                        "62.22% + 20.74% + 20.74%",
+                        "67.36% + 22.46% + 22.46%",
+                        "72.51% + 24.17% + 24.17%",
+                        "77.97% + 25.99% + 25.99%"
+                    ],
+                    [
+                        "Incarnation: Basic Attack 3 DMG",
+                        "50.02% + 33.35%",
+                        "54.12% + 36.08%",
+                        "58.23% + 38.82%",
+                        "63.97% + 42.65%",
+                        "68.07% + 45.38%",
+                        "72.79% + 48.53%",
+                        "79.35% + 52.90%",
+                        "85.91% + 57.28%",
+                        "92.47% + 61.65%",
+                        "99.44% + 66.30%"
+                    ],
+                    [
+                        "Incarnation: Basic Attack 4 DMG",
+                        "9.39%*6 + 37.56%",
+                        "10.16%*6 + 40.64%",
+                        "10.93%*6 + 43.72%",
+                        "12.01%*6 + 48.03%",
+                        "12.78%*6 + 51.11%",
+                        "13.67%*6 + 54.65%",
+                        "14.90%*6 + 59.58%",
+                        "16.13%*6 + 64.51%",
+                        "17.36%*6 + 69.44%",
+                        "18.67%*6 + 74.67%"
+                    ],
+                    [
+                        "Crescent Divinity DMG",
+                        "50.68% + 38.01%*2 + 126.70%",
+                        "54.84% + 41.13%*2 + 137.09%",
+                        "59.00% + 44.25%*2 + 147.48%",
+                        "64.81% + 48.61%*2 + 162.03%",
+                        "68.97% + 51.73%*2 + 172.42%",
+                        "73.75% + 55.31%*2 + 184.37%",
+                        "80.40% + 60.30%*2 + 200.99%",
+                        "87.05% + 65.29%*2 + 217.61%",
+                        "93.70% + 70.27%*2 + 234.24%",
+                        "100.76% + 75.57%*2 + 251.90%"
+                    ],
+                    [
+                        "Incarnation: Heavy Attack DMG",
+                        "24.00% + 56.00%",
+                        "25.97% + 60.60%",
+                        "27.94% + 65.19%",
+                        "30.70% + 71.62%",
+                        "32.66% + 76.21%",
+                        "34.93% + 81.49%",
+                        "38.08% + 88.84%",
+                        "41.22% + 96.18%",
+                        "44.37% + 103.53%",
+                        "47.72% + 111.34%"
+                    ],
+                    [
+                        "Incarnation: Heavy Attack STA Cost",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30"
+                    ],
+                    [
+                        "Illuminous Epiphany: Solar Flare DMG",
+                        "10.00%*6",
+                        "10.82%*6",
+                        "11.64%*6",
+                        "12.79%*6",
+                        "13.61%*6",
+                        "14.56%*6",
+                        "15.87%*6",
+                        "17.18%*6",
+                        "18.49%*6",
+                        "19.89%*6"
+                    ],
+                    [
+                        "Crescent Divinity Cooldown",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s",
+                        "10s"
+                    ],
+                    [
+                        "Crescent Divinity Concerto Regen",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8",
+                        "8"
+                    ],
+                    [
+                        "Illuminous Epiphany Concerto Regen",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20"
+                    ],
+                    [
+                        "Incarnation: Dodge Counter DMG",
+                        "22.08% + 16.56%*2 + 55.19%",
+                        "23.89% + 17.92%*2 + 59.71%",
+                        "25.70% + 19.27%*2 + 64.24%",
+                        "28.23% + 21.17%*2 + 70.57%",
+                        "30.04% + 22.53%*2 + 75.10%",
+                        "32.12% + 24.09%*2 + 80.30%",
+                        "35.02% + 26.27%*2 + 87.54%",
+                        "37.91% + 28.44%*2 + 94.78%",
+                        "40.81% + 30.61%*2 + 102.02%",
+                        "43.89% + 32.92%*2 + 109.71%"
+                    ],
+                    [
+                        "Incarnation: Dodge STA Cost",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20"
+                    ],
+                    [
+                        "Incandescence additional multiplier per stack",
+                        "22.40%",
+                        "24.24%",
+                        "26.08%",
+                        "28.65%",
+                        "30.49%",
+                        "32.60%",
+                        "35.54%",
+                        "38.48%",
+                        "41.42%",
+                        "44.54%"
+                    ],
+                    [
+                        "Unison Duration",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s"
+                    ],
+                    [
+                        "Illuminous Epiphany: Star Glamour DMG",
+                        "175.00%",
+                        "189.35%",
+                        "203.70%",
+                        "223.79%",
+                        "238.14%",
+                        "254.65%",
+                        "277.61%",
+                        "300.57%",
+                        "323.53%",
+                        "347.92%"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "name": "Radiant Surge",
+                        "description": "Jinhsi's <span class=\"text-spectro\">Spectro DMG Bonus</span> is increased by 20%."
+                    },
+                    {
+                        "name": "Converged Flash",
+                        "description": "Intro Skill <span class=\"text-highlight\">Loong's Halo</span> gains 50% additional DMG."
+                    }
+                ]
+            },
+            "intro": {
+                "name": "Loong's Halo",
+                "description": "Attack the target, dealing <span class=\"text-spectro\">Spectro DMG</span>.",
+                "scaling": [
+                    [
+                        "Skill DMG",
+                        "80.00%",
+                        "86.56%",
+                        "93.12%",
+                        "102.31%",
+                        "108.87%",
+                        "116.41%",
+                        "126.91%",
+                        "137.40%",
+                        "147.90%",
+                        "159.05%"
+                    ],
+                    [
+                        "Concerto Regen",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 1.20%."
+                    },
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 2.80%."
+                    }
+                ]
+            },
+            "outro": {
+                "name": "Temporal Bender",
+                "description": "With the power homologous with the Sentinel, Jinhsi reduces the Cooldown of <span class=\"text-highlight\">Eras in Unity</span> to 1s. This lasts for 1s."
+            }
+        },
+        "resonanceChain": {
+            "c1": {
+                "name": "Abyssal Ascension",
+                "description": "When Jinhsi casts Basic Attack <span class=\"text-highlight\">\"Incarnation: Basic Attack\"</span> or Resonance Skill <span class=\"text-highlight\">\"Crescent Divinity\"</span>, gain one stack of <span class=\"text-highlight\">Herald of Revival</span>, which stacks up to 4 times and last for 6s. When casting Resonance Skill <span class=\"text-highlight\">\"Illuminous Epiphany\"</span>, Jinhsi consumes all stacks of <span class=\"text-highlight\">Herald of Revival</span>. Each stack increases the DMG of Resonance Skill <span class=\"text-highlight\">\"Illuminous Epiphany\"</span> by 20%."
+            },
+            "c2": {
+                "name": "Chronofrost Repose",
+                "description": "Jinhsi recovers 50 Incandescence while staying out of combat for more than 4s. This effect can only be triggered 1 every 4s."
+            },
+            "c3": {
+                "name": "Celestial Incarnate",
+                "description": "Gain 25% Incandescence and a stack of <span class=\"text-highlight\">Immortal's Descendancy</span> after casting Intro Skill <span class=\"text-highlight\">Loong's Halo</span>. Every stack of <span class=\"text-highlight\">Immortal's Descendancy</span> increases ATK by 2, for up to 20 stacks, lasting for undefineds."
+            },
+            "c4": {
+                "name": "Benevolent Grace",
+                "description": "When casting Resonance Liberation <span class=\"text-highlight\">Purge of Light</span> or Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span>, all nearby Characters in the team gain DMG Bonus for all attributes by 20% for 20s."
+            },
+            "c5": {
+                "name": "Frostfire Illumination",
+                "description": "The DMG Multiplier of Resonance Liberation <span class=\"text-highlight\">Purge of Light</span> is increased by 120%."
+            },
+            "c6": {
+                "name": "Comes Spring when Chill Exhausts",
+                "description": "DMG Multiplier percentage for Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span> is increased by 45%. The multiplier increase brought by Incandescence is additionally increased by 45%."
+            }
+        },
+        "stats": {
+            "hp": [
+                866,
+                2830,
+                4867,
+                6174,
+                7481,
+                8788,
+                10095,
+                10825
+            ],
+            "atk": [
+                33,
+                111,
+                191,
+                244,
+                296,
+                340,
+                385,
+                413
+            ],
+            "def": [
+                103,
+                331,
+                568,
+                719,
+                871,
+                1022,
+                1174,
+                1259
+            ]
+        },
+        "tags": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage"
+        ],
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Howler Core",
+            "ascensionMat": "Gloom Slough",
+            "bossMat": "Elegy Tacet Core",
+            "weeklyBossMat": "Sentinel's Dagger"
+        },
+        "description": "Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinel's Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future.",
+        "birthday": "March 6",
+        "gender": "Female",
+        "nation": "Huanglong",
+        "voiceActors": {
+            "en": "Anna Devlin",
+            "jp": "Yoshino Aoyama (青山吉能)"
+        },
+        "release": {
+            "date": "June 28, 2024",
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Changli",
+        "title": "Vermillion's Ploy",
+        "rarity": 5,
+        "element": "Fusion",
+        "weapon": "Sword",
+        "forte": {
+            "attack": {
+                "name": "Blazing Enlightment",
+                "description": "<span class=\"text-header\">Basic Attack</span><br />Changli performs up to 4 consecutive attacks, dealing <span class=\"text-fusion\">Fusion DMG</span>.<br />After releasing <span class=\"text-highlight\">Ground Basic Attack Stage 4</span>, Changli enters <span class=\"text-highlight\">True Sight</span>, lasting for 12s.<br /><br /><span class=\"text-header\">Mid-air Attack</span><br />Consume Stamina to perform up to 4 consecutive attacks in mid-air, dealing <span class=\"text-fusion\">Fusion DMG</span>.<br />After releasing <span class=\"text-highlight\">Mid-air Attack Stage 4</span>, Changli enters <span class=\"text-highlight\">True Sight</span>, lasting for 12s.<br /><br /><span class=\"text-header\">Heavy Attack</span><br />Hold <span class=\"text-highlight\">Basic Attack</span> on the ground to consume Stamina to perform an upward strike, dealing <span class=\"text-fusion\">Fusion DMG</span>. Use <span class=\"text-highlight\">Basic Attack</span> within a certain time to release <span class=\"text-highlight\">Mid-air Attack Stage 3</span>.<br /><br /><span class=\"text-header\">Mid-air Heavy Attack</span><br />Shortly after holding <span class=\"text-highlight\">Basic Attack</span> in mid-air or using Basic Attack <span class=\"text-highlight\">True Sight: Charge</span>, use <span class=\"text-highlight\">Basic Attack</span> to consume Stamina to perform a Plunging Attack, dealing <span class=\"text-fusion\">Fusion DMG</span>. Use <span class=\"text-highlight\">Basic Attack</span> within a certain time to release <span class=\"text-highlight\">Basic Attack Stage 3</span>.<br /><br /><span class=\"text-header\">Dodge Counter</span><br />Use <span class=\"text-highlight\">Basic Attack</span> after a successful <span class=\"text-highlight\">Dodge</span> to attack the target, dealing <span class=\"text-fusion\">Fusion DMG</span>.",
+                "scaling": [
+                    [
+                        "Basic Attack 1 DMG",
+                        "14.84%*2",
+                        "16.05%*2",
+                        "17.27%*2",
+                        "18.97%*2",
+                        "20.19%*2",
+                        "21.59%*2",
+                        "23.53%*2",
+                        "25.48%*2",
+                        "27.43%*2",
+                        "29.49%*2"
+                    ],
+                    [
+                        "Basic Attack 2 DMG",
+                        "17.85%*2",
+                        "19.32%*2",
+                        "20.78%*2",
+                        "22.83%*2",
+                        "24.30%*2",
+                        "25.98%*2",
+                        "28.32%*2",
+                        "30.66%*2",
+                        "33.00%*2",
+                        "35.49%*2"
+                    ],
+                    [
+                        "Basic Attack 3 DMG",
+                        "18.34%*3",
+                        "19.84%*3",
+                        "21.34%*3",
+                        "23.45%*3",
+                        "24.95%*3",
+                        "26.68%*3",
+                        "29.08%*3",
+                        "31.49%*3",
+                        "33.89%*3",
+                        "36.45%*3"
+                    ],
+                    [
+                        "Basic Attack 4 DMG",
+                        "25.50% + 14.88%*4",
+                        "27.60% + 16.10%*4",
+                        "29.69% + 17.32%*4",
+                        "32.61% + 19.03%*4",
+                        "34.71% + 20.25%*4",
+                        "37.11% + 21.65%*4",
+                        "40.46% + 23.60%*4",
+                        "43.80% + 25.55%*4",
+                        "47.15% + 27.50%*4",
+                        "50.70% + 29.58%*4"
+                    ],
+                    [
+                        "Mid-Air Attack 1 DMG",
+                        "30.86%",
+                        "33.39%",
+                        "35.92%",
+                        "39.46%",
+                        "41.99%",
+                        "44.90%",
+                        "48.95%",
+                        "53.00%",
+                        "57.05%",
+                        "61.35%"
+                    ],
+                    [
+                        "Mid-Air Attack 2 DMG",
+                        "25.59%*2",
+                        "27.69%*2",
+                        "29.79%*2",
+                        "32.72%*2",
+                        "34.82%*2",
+                        "37.23%*2",
+                        "40.59%*2",
+                        "43.95%*2",
+                        "47.30%*2",
+                        "50.87%*2"
+                    ],
+                    [
+                        "Mid-Air Attack 3 DMG",
+                        "22.13%*3",
+                        "23.95%*3",
+                        "25.76%*3",
+                        "28.30%*3",
+                        "30.12%*3",
+                        "32.20%*3",
+                        "35.11%*3",
+                        "38.01%*3",
+                        "40.91%*3",
+                        "44.00%*3"
+                    ],
+                    [
+                        "Mid-Air Attack 4 DMG",
+                        "19.13% + 11.16%*4",
+                        "20.70% + 12.08%*4",
+                        "22.27% + 12.99%*4",
+                        "24.46% + 14.27%*4",
+                        "26.03% + 15.19%*4",
+                        "27.83% + 16.24%*4",
+                        "30.34% + 17.70%*4",
+                        "32.85% + 19.17%*4",
+                        "35.36% + 20.63%*4",
+                        "38.03% + 22.18%*4"
+                    ],
+                    [
+                        "Heavy Attack",
+                        "14.58%*3 + 18.75%",
+                        "15.78%*3 + 20.28%",
+                        "16.97%*3 + 21.82%",
+                        "18.65%*3 + 23.97%",
+                        "19.84%*3 + 25.51%",
+                        "21.22%*3 + 27.28%",
+                        "23.13%*3 + 29.74%",
+                        "25.04%*3 + 32.20%",
+                        "26.95%*3 + 34.65%",
+                        "28.99%*3 + 37.27%"
+                    ],
+                    [
+                        "Mid-Air Heavy Attack",
+                        "62.00%",
+                        "67.09%",
+                        "72.17%",
+                        "79.29%",
+                        "84.37%",
+                        "90.22%",
+                        "98.36%",
+                        "106.49%",
+                        "114.62%",
+                        "123.27%"
+                    ],
+                    [
+                        "Dodge Counter",
+                        "41.57%*3",
+                        "44.98%*3",
+                        "48.39%*3",
+                        "53.16%*3",
+                        "56.57%*3",
+                        "60.49%*3",
+                        "65.94%*3",
+                        "71.40%*3",
+                        "76.85%*3",
+                        "82.64%*3"
+                    ],
+                    [
+                        "Mid-Air Attack STA Cost",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5",
+                        "5"
+                    ],
+                    [
+                        "Heavy Attack STA Cost",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25",
+                        "25"
+                    ],
+                    [
+                        "Mid-Air Heavy Attack STA Cost",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30",
+                        "30"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 1.20%."
+                    },
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 2.80%."
+                    }
+                ]
+            },
+            "skill": {
+                "name": "Tripartite Flames",
+                "description": "<span class=\"text-header\">True Sight: Capture</span><br />After releasing <span class=\"text-highlight\">Resonance Skill</span>, Changli rapidly attacks the enemy and enters <span class=\"text-highlight\">True Sight</span>, lasting for 12s. In the end, Changli releases a Plunging Attack, dealing <span class=\"text-fusion\">Fusion DMG</span>.<br /><span class=\"text-highlight\">True Sight: Capture</span> has 2 initial attempts and can be used up to 2 times. The number of attempts is increased by 1 every 12s.<br /><br /><span class=\"text-header\">Basic Attack: True Sight - Conquest</span><br />When in <span class=\"text-highlight\">True Sight</span>, if Changli uses <span class=\"text-highlight\">Ground Basic Attack</span>, she releases <span class=\"text-highlight\">True Sight: Conquest</span>, rapidly approaching the enemy and dealing <span class=\"text-fusion\">Fusion DMG</span>, considered as Resonance Skill DMG. After releasing <span class=\"text-highlight\">True Sight: Conquest</span>, <span class=\"text-highlight\">True Sight</span> ends.<br /><br /><span class=\"text-header\">Basic Attack: True Sight - Charge</span><br />When in <span class=\"text-highlight\">True Sight</span>, if Changli <span class=\"text-highlight\">jumps</span> or uses <span class=\"text-highlight\">Basic Attack</span> in mid-air, she releases <span class=\"text-highlight\">True Sight: Charge</span>, dashing towards the enemy and dealing <span class=\"text-fusion\">Fusion DMG</span>, considered as Resonance Skill DMG. After releasing <span class=\"text-highlight\">True Sight: Charge</span>, <span class=\"text-highlight\">True Sight</span> ends.",
+                "scaling": [
+                    [
+                        "True Sight - Capture DMG",
+                        "33.70%*3 + 67.40%",
+                        "36.46%*3 + 72.92%",
+                        "39.23%*3 + 78.45%",
+                        "43.10%*3 + 86.19%",
+                        "45.86%*3 + 91.71%",
+                        "49.04%*3 + 98.07%",
+                        "53.46%*3 + 106.91%",
+                        "57.88%*3 + 115.75%",
+                        "62.30%*3 + 124.59%",
+                        "67.00%*3 + 133.99%"
+                    ],
+                    [
+                        "True Sight - Conquest DMG",
+                        "29.65%*2 + 41.51% + 47.44%",
+                        "32.08%*2 + 44.91% + 51.33%",
+                        "34.51%*2 + 48.32% + 55.22%",
+                        "37.92%*2 + 53.08% + 60.67%",
+                        "40.35%*2 + 56.49% + 64.56%",
+                        "43.14%*2 + 60.40% + 69.03%",
+                        "47.03%*2 + 65.85% + 75.25%",
+                        "50.92%*2 + 71.29% + 81.48%",
+                        "54.81%*2 + 76.74% + 87.70%",
+                        "58.95%*2 + 82.52% + 94.31%"
+                    ],
+                    [
+                        "True Sight - Charge DMG",
+                        "36.56% + 54.84%",
+                        "39.56% + 59.34%",
+                        "42.56% + 63.83%",
+                        "46.75% + 70.13%",
+                        "49.75% + 74.62%",
+                        "53.20% + 79.80%",
+                        "58.00% + 86.99%",
+                        "62.79% + 94.18%",
+                        "67.59% + 101.38%",
+                        "72.68% + 109.02%"
+                    ],
+                    [
+                        "True Sight: Capture - Concerto Regen",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14",
+                        "14"
+                    ],
+                    [
+                        "True Sight: Conquest - Concerto Regen",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7",
+                        "7"
+                    ],
+                    [
+                        "True Sight: Charge - Concerto Regen",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6",
+                        "6"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 1.80%."
+                    },
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 4.20%."
+                    }
+                ]
+            },
+            "ultimate": {
+                "name": "Radiance of Fealty",
+                "description": "Deal <span class=\"text-fusion\">Fusion DMG</span> to nearby targets, obtaining 4 stacks of Enflamement, and entering <span class=\"text-highlight\">Fiery Feather</span>.<br /><br /><span class=\"text-header\">Fiery Feather</span><br />When Changli releases Heavy Attack <span class=\"text-highlight\">Flaming Sacrifice</span> within 10s, her ATK is increased by 25%, after which <span class=\"text-highlight\">Fiery Feather</span> ends.",
+                "scaling": [
+                    [
+                        "Skill DMG",
+                        "610.00%",
+                        "660.02%",
+                        "710.04%",
+                        "780.07%",
+                        "830.09%",
+                        "887.62%",
+                        "967.65%",
+                        "1047.68%",
+                        "1127.71%",
+                        "1212.75%"
+                    ],
+                    [
+                        "Cooldown",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s",
+                        "20s"
+                    ],
+                    [
+                        "Resonance Cost",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150",
+                        "150"
+                    ],
+                    [
+                        "Concerto Regen",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20",
+                        "20"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 1.80%."
+                    },
+                    {
+                        "type": "ATK",
+                        "description": "ATK increased by 4.20%."
+                    }
+                ]
+            },
+            "circuit": {
+                "name": "Flaming Vow",
+                "description": "<span class=\"text-header\">Heavy Attack: Flaming Sacrifice</span><br />When releasing <span class=\"text-highlight\">Heavy Attack</span>, if Changli carries 4 stacks of \"Enflamement\", she consumes all stacks of \"Enflamement\" to release Flaming Sacrifice, dealing <span class=\"text-fusion\">Fusion DMG</span>, considered as Resonance Skill DMG.<br /><br /><span class=\"text-header\">Enflamement</span><br />Changli can hold up to 4 stacks of \"Enflamement\".<br />Changli obtains 1 stack of \"Enflamement\" for every Basic Attack: <span class=\"text-highlight\">True Sight - Conquest</span> on hit.<br />Changli obtains 1 stack of \"Enflamement\" for every Basic Attack: <span class=\"text-highlight\">True Sight - Charge</span> on hit.<br />Changli obtains 4 stacks of \"Enflamement\" for every Resonance Liberation <span class=\"text-highlight\">Radiance of Fealty</span>.",
+                "scaling": [
+                    [
+                        "Flaming Vow DMG",
+                        "16.31%*5 + 190.25%",
+                        "17.65%*5 + 205.85%",
+                        "18.99%*5 + 221.45%",
+                        "20.86%*5 + 243.29%",
+                        "22.19%*5 + 258.89%",
+                        "23.73%*5 + 276.83%",
+                        "25.87%*5 + 301.79%",
+                        "28.01%*5 + 326.75%",
+                        "30.15%*5 + 351.71%",
+                        "32.42%*5 + 378.23%"
+                    ],
+                    [
+                        "Concerto Regen",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "name": "Secret Strategist",
+                        "description": "When Changli releases Basic Attack: <span class=\"text-highlight\">True Sight - Conquest</span> or Basic Attack: <span class=\"text-highlight\">True Sight - Charge</span>, for each stack of \"Enflamement\", Changli's <span class=\"text-fusion\">Fusion DMG</span> is increased by 5%."
+                    },
+                    {
+                        "name": "Sweeping Force",
+                        "description": "When Changli releases Heavy Attack <span class=\"text-highlight\">Flaming Sacrifice</span> or Resonance Liberation <span class=\"text-highlight\">Radiance of Fealty</span>, Changli's <span class=\"text-fusion\">Fusion DMG Bonus</span> is increased by 20%, and Changli ignores 15% of the target's DEF when dealing damage."
+                    }
+                ]
+            },
+            "intro": {
+                "name": "Obedience of Rules",
+                "description": "Changli appears in mid-air, attacks the target, and enters <span class=\"text-highlight\">True Sight</span>, lasting for 12s.",
+                "scaling": [
+                    [
+                        "Skill DMG",
+                        "22.38% + 13.06%*4",
+                        "24.22% + 14.13%*4",
+                        "26.06% + 15.20%*4",
+                        "28.62% + 16.70%*4",
+                        "30.46% + 17.77%*4",
+                        "32.57% + 19.00%*4",
+                        "35.51% + 20.71%*4",
+                        "38.44% + 22.43%*4",
+                        "41.38% + 24.14%*4",
+                        "44.50% + 25.96%*4"
+                    ],
+                    [
+                        "Concerto Regen",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10",
+                        "10"
+                    ]
+                ],
+                "nodes": [
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 1.20%."
+                    },
+                    {
+                        "type": "Crit Rate",
+                        "description": "Crit. Rate increased by 2.80%."
+                    }
+                ]
+            },
+            "outro": {
+                "name": "Strategy of Duality",
+                "description": "Changli's Outro Skill increases the switched-in Resonator's <span class=\"text-fusion\">Fusion DMG</span> by 20% and their Resonance Liberation DMG by 25%, lasting for 10s. Switching to another Resonator ends this effect."
+            }
+        },
+        "resonanceChain": {
+            "c1": {
+                "name": "Hidden Thoughts",
+                "description": "Resonance Skill <span class=\"text-highlight\">Tripartite Flames</span> and Heavy Attack <span class=\"text-highlight\">Flaming Vow</span> increases Changli's DMG dealt by 10% and resistance to interruption."
+            },
+            "c2": {
+                "name": "Pursuit of Desires",
+                "description": "\"Enflamement\" increases Changli's CRIT DMG by 25%, lasting for 8s."
+            },
+            "c3": {
+                "name": "Learned Secrets",
+                "description": "Resonance Liberation <span class=\"text-highlight\">Radiance of Fealty</span> DMG is increased by 80%."
+            },
+            "c4": {
+                "name": "Polished Words",
+                "description": "Intro Skill increases the ATK of all team members by 20%, lasting for 30s."
+            },
+            "c5": {
+                "name": "Sacrificed Gains",
+                "description": "Heavy Attack <span class=\"text-highlight\">Flaming Vow</span>'s multiplier is increased by 50%. When Heavy Attack <span class=\"text-highlight\">Flaming Vow</span> is released, Changli's ATK is increased by an additional 50%."
+            },
+            "c6": {
+                "name": "Realized Plans",
+                "description": "Resonance Skill <span class=\"text-highlight\">Tripartite Flames</span>, Heavy Attack <span class=\"text-highlight\">Flaming Vow</span>, and Resonance Liberation <span class=\"text-highlight\">Radiance of Fealty</span> ignore an additional 40% of the target's DEF when dealing damage."
+            }
+        },
+        "stats": {
+            "hp": [
+                831,
+                2715,
+                4670,
+                5924,
+                7179,
+                8433,
+                9687,
+                10388
+            ],
+            "atk": [
+                37,
+                124,
+                214,
+                273,
+                332,
+                382,
+                431,
+                463
+            ],
+            "def": [
+                90,
+                289,
+                496,
+                628,
+                761,
+                893,
+                1026,
+                1100
+            ]
+        },
+        "tags": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage",
+            "Fusion Damage Boost",
+            "Resonance Liberation Damage Boost"
+        ],
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Ring",
+            "ascensionMat": "Pavo Plum",
+            "bossMat": "Rage Tacet Core",
+            "weeklyBossMat": "Sentinel's Dagger"
+        },
+        "description": "Counselor to the Jinzhou Magistrate and former Secretary-General of the Central Secretariat in the capital. Shrouded in flames, she's a counselor fated to burn brightly until her final embers. Positioning herself on the chessboard, she's always planning several moves ahead to achieve her ambition.",
+        "birthday": "June 6",
+        "gender": "Female",
+        "nation": "Huanglong",
+        "voiceActors": {
+            "en": "Ashleigh Haddad",
+            "jp": "Chiwa Saitō (斎藤 千和)"
+        },
+        "release": {
+            "date": "July 22, 2024",
+            "version": "1.1"
         }
     }
 ]

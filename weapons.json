@@ -2057,5 +2057,126 @@
         "release": {
             "version": "1.0"
         }
+    },
+    {
+        "id": 62,
+        "name": "Ages of Harvest",
+        "rarity": 5,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "47",
+            "subStat": "Crit Rate",
+            "passive": {
+                "name": "Divine Blessing",
+                "description": "Grants <span class=\"text-refinement\">12%</span> Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants <span class=\"text-refinement\">24%</span> Resonance Skill DMG Bonus for 12s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants <span class=\"text-refinement\">24%</span> Resonance Skill DMG Bonus for 12s.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "24%",
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%"
+                    ],
+                    [
+                        "24%",
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "Each swing of the blade reveals the flow of time and the change of the stars. The sword embodies all things, uniting them into one. Its gentle aura seems capable of dissolving the indestructible, whether it's millennia-old ice or the stagnation of time.",
+        "release": {
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Blazing Brilliance",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "47",
+            "subStat": "Crit DMG",
+            "passive": {
+                "name": "Crimson Phoenix",
+                "description": "Increases CRIT Rate by <span class=\"text-refinement\">12%</span>. Upon dealing damage, increases Searing Feather by 1 stack, gaining 1 stack every 0.5s. When Resonance Skill is released, increases Searing Feather by an extra 5 stacks. Each stack of Searing Feather increases Resonance Skill DMG Bonus by <span class=\"text-refinement\">4%</span>, stacking up to 14 times. After reaching 14 stacks of Searing Feather, all stacks will reset within 10s.",
+                "scaling": [
+                    [
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%"
+                    ],
+                    [
+                        "4%",
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Metallic Drip",
+            "commonMat": "Howler Core"
+        },
+        "description": "Forged from the very essence and feathers of a legendary bird, this weapon blazes with an intensity that bathes the world in its luminous glow. With each fiery surge, it consumes all in its path, leaving nothing but ashes in its wake.",
+        "release": {
+            "version": "1.1"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Beguiling Melody",
+        "rarity": 3,
+        "type": "Broadblade",
+        "stats": {
+            "atk": "24",
+            "subStat": "ATK",
+            "passive": {
+                "name": "",
+                "description": "When Intro Skill is released, restores Concerto Energy by <span class=\"text-refinement\">4</span>. When Outro Skill is released, restores Resonance Energy by <span class=\"text-refinement\">4</span>.",
+                "scaling": [
+                    [
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    [
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ]
+                ]
+            }
+        },
+        "materials": {
+            "forgeryMat": "Waveworn",
+            "commonMat": "Whisperin Core"
+        },
+        "description": "Forged from the loong scale of Jué, this weapon resembles a musical instrument more than a tool of destruction.",
+        "release": {
+            "version": "1.1"
+        }
     }
 ]
