@@ -2113,7 +2113,7 @@
             "subStat": "Crit DMG",
             "passive": {
                 "name": "Crimson Phoenix",
-                "description": "Increases CRIT Rate by <span class=\"text-refinement\">12%</span>. Upon dealing damage, increases Searing Feather by 1 stack, gaining 1 stack every 0.5s. When Resonance Skill is released, increases Searing Feather by an extra 5 stacks. Each stack of Searing Feather increases Resonance Skill DMG Bonus by <span class=\"text-refinement\">4%</span>, stacking up to 14 times. After reaching 14 stacks of Searing Feather, all stacks will reset within 10s.",
+                "description": "ATK increased by <span class=\"text-refinement\">12%</span>. The equipper gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives <span class=\"text-refinement\">4%</span> additional Resonance Skill DMG Bonus for up to 14 stacks. All stacks will be removed within 10s after reaching the max stack.",
                 "scaling": [
                     [
                         "12%",
@@ -2150,8 +2150,8 @@
             "atk": "24",
             "subStat": "ATK",
             "passive": {
-                "name": "",
-                "description": "When Intro Skill is released, restores Concerto Energy by <span class=\"text-refinement\">4</span>. When Outro Skill is released, restores Resonance Energy by <span class=\"text-refinement\">4</span>.",
+                "name": "Graceful Touch",
+                "description": "When Intro Skill is cast, restores <span class=\"text-refinement\">4</span> Concerto Energy. When Outro Skill is cast, restores <span class=\"text-refinement\">4</span> Resonance Energy.",
                 "scaling": [
                     [
                         "4",
