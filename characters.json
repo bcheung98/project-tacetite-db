@@ -10265,19 +10265,6 @@
                 "description": "<span class=\"text-header\">Incarnation</span><br />While in <span class=\"text-highlight\">Incarnation</span>:<li>Alternative Basic Attack <span class=\"text-highlight\">\"Incarnation - Basic Attack\"</span> becomes available. Perform up to 4 consecutive strikes, dealing <span class=\"text-spectro\">Spectro DMG</span> considered as Resonance Skill DMG. The basic attack cycle of this will not be reset. Can be cast in mid-air.</li><li>Alternative Resonance Skill <span class=\"text-highlight\">\"Crescent Divinity\"</span> becomes available. Deal <span class=\"text-spectro\">Spectro DMG</span>. Can be cast in mid-air.</li><li>Alternative Heavy Attack <span class=\"text-highlight\">\"Incarnation - Heavy Attack\"</span> becomes available. Attack the target in mid-air at the cost of STA, dealing <span class=\"text-spectro\">Spectro DMG</span>.</li><li>Alternative Dodge <span class=\"text-highlight\">\"Incarnation - Dodge\"</span> becomes available while airborne. Can be cast multiple times at the cost of STA.</li><li>Alternative Dodge Counter <span class=\"text-highlight\">\"Incarnation - Dodge Counter\"</span> becomes available. Deal <span class=\"text-spectro\">Spectro DMG</span>.</li>Can be cast in mid-air.<br /><br /><span class=\"text-header\">Resonance Skill: Illuminous Epiphany</span><br />After Stage 4 of <span class=\"text-highlight\">Incarnation - Basic Attack</span>, <span class=\"text-highlight\">Incarnation</span> terminates and Jinhsi gains <span class=\"text-highlight\">Ordination Glow</span>.<br />Can be cast in mid-air.<br />While <span class=\"text-highlight\">Ordination Glow</span> lasts:<li>Basic Attack is replaced with the Alternative Heavy Attack <span class=\"text-highlight\">\"Incarnation - Heavy Attack\"</span> when airborne. Attack the target in mid-air at the cost of STA, dealing <span class=\"text-spectro\">Spectro DMG</span>.</li>Resonance Skill is replaced with Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span>. Send out <span class=\"text-highlight\">Solar Flare</span> that detonates as <span class=\"text-highlight\">Stella Glamour</span>, dealing <span class=\"text-spectro\">Spectro DMG</span> after a short delay. Consume up to 50 Incandescence, with each point of Incandescence granting bonus DMG Multiplier percentage to <span class=\"text-highlight\">Stella Glamour</span>. Can be cast in mid-air.<br />After casting Resonance Skill <span class=\"text-highlight\">Illuminous Epiphany</span>, Jinhsi gains <span class=\"text-highlight\">Unison</span>. This can be triggered once in 25s.<br /><br /><span class=\"text-header\">Unison</span><br />While Jinhsi has <span class=\"text-highlight\">Unison</span>, switching to other Characters will remove Jinhsi's <span class=\"text-highlight\">Unison</span> to trigger Jinhsi's Outro Skill and the incoming character's Intro Skill. <span class=\"text-highlight\">Unison</span> will be consumed in priority in place of Concerto Energy when Concerto Energy is full.<br /><br /><span class=\"text-header\">Incandescence</span><br />Jinhsi can hold up to 50 Incandescence.<br />When Jinhsi is on the team, all nearby characters on the team gain <span class=\"text-highlight\">Eras in Unity</span>.<br /><span class=\"text-highlight\">Eras in Unity</span> provides 2 independent effects:<br />Jinhsi gains 1 Incandescence anytime Resonators in the party inflict Attribute DMG. This effect may be triggered by damage of the same Attribute for up to 1 time(s) every 3s. Additionally, Jinhsi gains 2 Incandescence when Resonators in the party damage the enemy with Coordinated Attacks. This effect may be triggered by Coordinated Attacks of the same Attribute for up to 1 time(s) every 3s.",
                 "scaling": [
                     [
-                        "Ordination Glow Duration",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s",
-                        "5s"
-                    ],
-                    [
                         "Incarnation - Basic Attack 1 DMG",
                         "44.58%",
                         "48.23%",
@@ -10432,6 +10419,19 @@
                         "20",
                         "20",
                         "20"
+                    ],
+                    [
+                        "Ordination Glow Duration",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s",
+                        "5s"
                     ],
                     [
                         "Unison Duration",
