@@ -463,8 +463,8 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Aero Damage Boost"
+            "Concerto Efficiency",
+            "Aero DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Phlogiston",
@@ -977,7 +977,8 @@
         },
         "tags": [
             "Support and Healer",
-            "Damage Boost"
+            "Coordinated Attack",
+            "DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Helix",
@@ -1620,7 +1621,7 @@
         },
         "tags": [
             "Main Damage Dealer",
-            "Heavy Attack Damage"
+            "Resonance Liberation Damage"
         ],
         "materials": {
             "forgeryMat": "Waveworn",
@@ -2080,8 +2081,7 @@
             ]
         },
         "tags": [
-            "Main Damage Dealer",
-            "Basic Attack Damage"
+            "Main Damage Dealer"
         ],
         "materials": {
             "forgeryMat": "Phlogiston",
@@ -2632,9 +2632,8 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Resonance Skill Damage",
-            "Havoc Damage Boost"
+            "Concerto Efficiency",
+            "Havoc DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
@@ -3948,7 +3947,7 @@
             "Support and Healer",
             "Heavy Attack Damage",
             "Traction",
-            "Resonance Liberation Damage Boost"
+            "Resonance Liberation DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Cadence",
@@ -4486,8 +4485,7 @@
             ]
         },
         "tags": [
-            "Main Damage Dealer",
-            "Basic Attack Damage"
+            "Main Damage Dealer"
         ],
         "materials": {
             "forgeryMat": "Cadence",
@@ -4960,10 +4958,10 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
+            "Concerto Efficiency",
             "Resonance Liberation Damage",
             "Coordinated Attack",
-            "Heavy Attack Damage Boost"
+            "Heavy Attack DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Phlogiston",
@@ -5474,8 +5472,8 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Deceleration"
+            "Concerto Efficiency",
+            "Stagnation"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
@@ -5775,7 +5773,7 @@
             },
             "circuit": {
                 "name": "Umbra Eclipse",
-                "description": "<span class=\"text-header\">Devastation</span><br />When \"Umbra\" is full, hold <span class=\"text-highlight\">Basic Attack</span> to cast <span class=\"text-highlight\">Devastation</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>, considered as Heavy Attack damage.<br /><br /><span class=\"text-header\">Dark Surge</span><br />After casting <span class=\"text-highlight\">Devastation</span>, Rover enters the <span class=\"text-highlight\">Dark Surge</span> state. In this state:<br /><span class=\"text-highlight\">Basic Attack</span> is replaced with <span class=\"text-highlight\">Enhanced Basic Attack</span>, which performs up to 5 consecutive attacks, dealing <span class=\"text-havoc\">Havoc DMG</span><br /><span class=\"text-highlight\">Heavy Attack</span> is replaced with <span class=\"text-highlight\">Enhanced Heavy Attack</span>;<br />Use <span class=\"text-highlight\">Basic Attack</span> after casting <span class=\"text-highlight\">Enhanced Heavy Attack</span> to cast Heavy Attack <span class=\"text-highlight\">Thwackblade</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>, considered as Heavy Attack damage;<br />Use <span class=\"text-highlight\">Basic Attack</span> after casting Heavy Attack <span class=\"text-highlight\">Thwackblade</span> to cast <span class=\"text-highlight\">Enhanced Basic Attack 3</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span><br />Resonance Skill <span class=\"text-highlight\">Wingblade</span> is replaced with Resonance Skill <span class=\"text-highlight\">Lifetaker</span>, transforming sounds into blades to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>.<br /><br /><span class=\"text-header\">Umbra</span><br />Rover can hold up to 100 points of Umbra.<br />Normal Attack <span class=\"text-highlight\">Tuneslayer</span> recovers Umbra on hit.<br />Resonance Skill <span class=\"text-highlight\">Wingblade</span> recovers Umbra when cast.<br />Resonance Skill <span class=\"text-highlight\">Lifetaker</span> recovers Umbra when cast.<br />Intro Skill <span class=\"text-highlight\">Instant of Annihilation</span> recovers Umbra when cast.",
+                "description": "<span class=\"text-header\">Devastation</span><br />When \"Umbra\" is full, hold <span class=\"text-highlight\">Basic Attack</span> to cast <span class=\"text-highlight\">Devastation</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>, considered as Heavy Attack damage.<br /><br /><span class=\"text-header\">Dark Surge</span><br />After casting <span class=\"text-highlight\">Devastation</span>, Rover enters the <span class=\"text-highlight\">Dark Surge</span> state. In this state:<br /><span class=\"text-highlight\">Basic Attack</span> is replaced with <span class=\"text-highlight\">Enhanced Basic Attack</span>, which performs up to 5 consecutive attacks, dealing <span class=\"text-havoc\">Havoc DMG</span>;<br /><span class=\"text-highlight\">Heavy Attack</span> is replaced with <span class=\"text-highlight\">Enhanced Heavy Attack</span>;<br />Use <span class=\"text-highlight\">Basic Attack</span> after casting <span class=\"text-highlight\">Enhanced Heavy Attack</span> to cast Heavy Attack <span class=\"text-highlight\">Thwackblade</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>, considered as Heavy Attack damage;<br />Use <span class=\"text-highlight\">Basic Attack</span> after casting Heavy Attack <span class=\"text-highlight\">Thwackblade</span> to cast <span class=\"text-highlight\">Enhanced Basic Attack 3</span> to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>;<br />Resonance Skill <span class=\"text-highlight\">Wingblade</span> is replaced with Resonance Skill <span class=\"text-highlight\">Lifetaker</span>, transforming sounds into blades to attack the target, dealing <span class=\"text-havoc\">Havoc DMG</span>.<br /><br /><span class=\"text-header\">Umbra</span><br />Rover can hold up to 100 points of Umbra.<br />Normal Attack <span class=\"text-highlight\">Tuneslayer</span> recovers Umbra on hit.<br />Resonance Skill <span class=\"text-highlight\">Wingblade</span> recovers Umbra when cast.<br />Resonance Skill <span class=\"text-highlight\">Lifetaker</span> recovers Umbra when cast.<br />Intro Skill <span class=\"text-highlight\">Instant of Annihilation</span> recovers Umbra when cast.",
                 "scaling": [
                     [
                         "Devastation Damage",
@@ -6090,8 +6088,7 @@
             ]
         },
         "tags": [
-            "Main Damage Dealer",
-            "Basic Attack Damage"
+            "Main Damage Dealer"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
@@ -6655,8 +6652,8 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Basic Attack Damage Boost"
+            "Concerto Efficiency",
+            "Basic Attack DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
@@ -7209,7 +7206,7 @@
         "tags": [
             "Support and Healer",
             "Resonance Liberation Damage",
-            "Resonance Skill Damage Boost"
+            "Resonance Skill DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Waveworn",
@@ -7813,7 +7810,8 @@
         },
         "tags": [
             "Support and Healer",
-            "Damage Boost"
+            "Coordinated Attack",
+            "DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Helix",
@@ -8273,10 +8271,9 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Heavy Attack Damage",
+            "Concerto Efficiency",
             "Traction",
-            "Resonance Liberation Charge"
+            "Resonance Liberation Regeneration"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
@@ -8905,10 +8902,10 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
-            "Resonance Skill Damage",
+            "Concerto Efficiency",
+            "Coordinated Attack",
             "Vibration Strength Reduction",
-            "Knockback Resistance Boost"
+            "Interruption Resistance Boost"
         ],
         "materials": {
             "forgeryMat": "Cadence",
@@ -9934,11 +9931,11 @@
             ]
         },
         "tags": [
-            "Burst Damage Dealer",
+            "Concerto Efficiency",
             "Resonance Skill Damage",
             "Coordinated Attack",
-            "Electro Damage Boost",
-            "Resonance Liberation Damage Boost"
+            "Electro DMG Amplification",
+            "Resonance Liberation DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Helix",
@@ -11147,8 +11144,8 @@
         "tags": [
             "Main Damage Dealer",
             "Resonance Skill Damage",
-            "Fusion Damage Boost",
-            "Resonance Liberation Damage Boost"
+            "Fusion DMG Amplification",
+            "Resonance Liberation DMG Amplification"
         ],
         "materials": {
             "forgeryMat": "Metallic Drip",
