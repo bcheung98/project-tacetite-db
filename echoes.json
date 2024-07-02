@@ -22,7 +22,7 @@
             "Void Thunder",
             "Sierra Gale"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />A humanoid TD holding hunting gear, gathering storm as boomerangs.<br />Aero Predators' thrusting of boomerangs is as unpredictable as vortex morphing around the seas. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />A humanoid TD holding hunting gear, gathering storm as boomerangs.<br />Aero Predators' thrusting of boomerangs is as unpredictable as vortex morphing around the seas. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -55,7 +55,7 @@
             "Sierra Gale",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />Widely distributed riparian fish-like animals with a special algal flower structure on the crown of their skull and capable of drifting in the wind.<br />When threatened, Chirpuff will rapidly puff air and make a warning chirp.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />Widely distributed riparian fish-like animals with a special algal flower structure on the crown of their skull and capable of drifting in the wind.<br />When threatened, Chirpuff will rapidly puff air and make a warning chirp.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -89,7 +89,7 @@
             "Rejuvenating Glow",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />Mayfly-like animals with a light body. They have wings like those of butterflies. Good at circling their enemies with flexible moves.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />Mayfly-like animals with a light body. They have wings like those of butterflies. Good at circling their enemies with flexible moves.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -162,7 +162,7 @@
             "Molten Rift",
             "Void Thunder"
         ],
-        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />A humanoid TD holding hunting gear, using lightning as arrows.<br />Electro Predators' pulling of strings is as fast as thunders striking in the first springs. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
+        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />A humanoid TD holding hunting gear, using lightning as arrows.<br />Electro Predators' pulling of strings is as fast as thunders striking in the first springs. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -187,7 +187,7 @@
             "Freezing Frost",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Mole-like animals with excellent burrowing capabilities. They are able to excavate even concrete and steel.<br />With their complicated underground passage system, Excarats can easily hide their traces and confuse their enemies.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Mole-like animals with excellent burrowing capabilities. They are able to excavate even concrete and steel.<br />With their complicated underground passage system, Excarats can easily hide their traces and confuse their enemies.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -246,7 +246,7 @@
             "Molten Rift",
             "Rejuvenating Glow"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />Wolf-like animals that roam the dry areas, known for their fury and bloodlust.<br />In order to fight against more powerful enemies, Annihilation Dreadmanes usually hunt in packs. Their operations are marked by the art of carnage.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />Wolf-like animals that roam the dry areas, known for their fury and bloodlust.<br />In order to fight against more powerful enemies, Annihilation Dreadmanes usually hunt in packs. Their operations are marked by the art of carnage.",
         "hasPhantom": false,
         "type": "Mutant Flora",
         "nation": [
@@ -280,7 +280,7 @@
             "Molten Rift",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />A mineral TD commonly found in mine veins. Under its rock body, blazing magma is contained.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />A mineral TD commonly found in mine veins. Under its rock body, blazing magma is contained.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
         "hasPhantom": false,
         "type": "Tacet Discord - Natural Species",
         "nation": [
@@ -314,7 +314,7 @@
             "Void Thunder",
             "Sierra Gale"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />A humanoid TD with blades grown from its arms. Yearning for powerful opponents, it burns with a fighting spirit as surging as the blades at the end of its limbs.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />A humanoid TD with blades grown from its arms. Yearning for powerful opponents, it burns with a fighting spirit as surging as the blades at the end of its limbs.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -361,7 +361,7 @@
             "Freezing Frost",
             "Celestial Light"
         ],
-        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />A humanoid TD holding hunting gear, shaping frost as spears.<br />Glacio Predators' throwing of spears is as accurate as snowflakes piercing through the air. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
+        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />A humanoid TD holding hunting gear, shaping frost as spears.<br />Glacio Predators' throwing of spears is as accurate as snowflakes piercing through the air. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -395,7 +395,7 @@
             "Sun-sinking Eclipse",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />A humanoid TD holding hunting gear, shaping frost as spears.<br />Glacio Predators' throwing of spears is as accurate as snowflakes piercing through the air. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
+        "description": "This enemy has a <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />A humanoid TD holding hunting gear, shaping frost as spears.<br />Glacio Predators' throwing of spears is as accurate as snowflakes piercing through the air. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.",
         "hasPhantom": false,
         "type": "Tacet Discord - Natural Species",
         "nation": [
@@ -428,7 +428,7 @@
             "Freezing Frost",
             "Celestial Light"
         ],
-        "description": "This has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />Fish-like animals widely distributed in water bodies. Gulpuff often hides its body under the water surface and displays the lotus leaf-like structure over its head as a camouflage.<br />When threatened, these creatures swallow a large amount of water before inflating themselves and letting out gulp sounds to frighten the enemy.",
+        "description": "This has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />Fish-like animals widely distributed in water bodies. Gulpuff often hides its body under the water surface and displays the lotus leaf-like structure over its head as a camouflage.<br />When threatened, these creatures swallow a large amount of water before inflating themselves and letting out gulp sounds to frighten the enemy.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -462,7 +462,7 @@
             "Celestial Light",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />A mineral TD commonly found in mine veins. Its rock body is haunted with black and profound powers.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />A mineral TD commonly found in mine veins. Its rock body is haunted with black and profound powers.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
         "hasPhantom": false,
         "type": "Tacet Discord - Natural Species",
         "nation": [
@@ -495,7 +495,7 @@
             "Celestial Light",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />A humanoid TD with scythes grown from its arms. It favors opponents less powerful, for only the weak are at the mercy of its trials and sentences.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />A humanoid TD with scythes grown from its arms. It favors opponents less powerful, for only the weak are at the mercy of its trials and sentences.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -520,7 +520,7 @@
             "Freezing Frost",
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />Tortoise-like amphibious creatures mostly often found along riverbanks. The shells on their backs are embedded with pieces of frost crystals. These creatures favor cold environments for naps.<br />A warmer surrounding will wake up a Hoartoise, as well as kindle its hot-tempered nature.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />Tortoise-like amphibious creatures mostly often found along riverbanks. The shells on their backs are embedded with pieces of frost crystals. These creatures favor cold environments for naps.<br />A warmer surrounding will wake up a Hoartoise, as well as kindle its hot-tempered nature.",
         "hasPhantom": true,
         "type": "Mutant Flora",
         "nation": [
@@ -553,7 +553,7 @@
             "Sierra Gale",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />Gibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.<br />They are TDs within Huanglong borders found to manifest relatively sophisticated cognitive abilities, capable of emulating humans in the use of certain rudimentary weapons and tools. In this case flinging rocks.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />Gibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.<br />They are TDs within Huanglong borders found to manifest relatively sophisticated cognitive abilities, capable of emulating humans in the use of certain rudimentary weapons and tools. In this case flinging rocks.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -621,7 +621,7 @@
             "Rejuvenating Glow",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />An immature humanoid TD that exudes small amounts of magma, as though they are on the verge of boiling point.<br />When they battle, the magma on their body erupts with sparks and emits a crackling sound similar to \"snip-snaping\".",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />An immature humanoid TD that exudes small amounts of magma, as though they are on the verge of boiling point.<br />When they battle, the magma on their body erupts with sparks and emits a crackling sound similar to \"snip-snaping\".",
         "hasPhantom": false,
         "type": "Tacet Discord-Murmurin",
         "nation": [
@@ -655,7 +655,7 @@
             "Void Thunder",
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />A mineral TD commonly found in mine veins. Its rock body emits a blinding, brilliant glow.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />A mineral TD commonly found in mine veins. Its rock body emits a blinding, brilliant glow.<br />Although its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.",
         "hasPhantom": false,
         "type": "Tacet Discord - Natural Species",
         "nation": [
@@ -696,7 +696,7 @@
             "Rejuvenating Glow",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />An immature humanoid TD. Maybe imitating the clacking of teeth of human laughter, they always make sounds of \"tick tack\" whenever they encounter humans.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />An immature humanoid TD. Maybe imitating the clacking of teeth of human laughter, they always make sounds of \"tick tack\" whenever they encounter humans.",
         "hasPhantom": false,
         "type": "Tacet Discord-Murmurin",
         "nation": [
@@ -795,7 +795,7 @@
             "Rejuvenating Glow",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />An immature humanoid TD, hovering in the air with the help of winds. It is able to alter its movement speed through the simple absorption of gases.<br />When it exhales air backwards and accelerates, it often emits a sound akin to \"whoosh\".",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />An immature humanoid TD, hovering in the air with the help of winds. It is able to alter its movement speed through the simple absorption of gases.<br />When it exhales air backwards and accelerates, it often emits a sound akin to \"whoosh\".",
         "hasPhantom": false,
         "type": "Tacet Discord-Murmurin",
         "nation": [
@@ -821,7 +821,7 @@
             "Void Thunder",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />Large amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat.<br />Research has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body temperature.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />Large amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat.<br />Research has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body temperature.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -854,7 +854,7 @@
             "Sierra Gale",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Roseshrooms are fungus-like TDs inhabiting wetlands, whose caps are like the petals of a rose when fully bloomed, hence the name.<br />While they are stationary, the core on their caps can gather and release light rays to attack passing creatures.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Roseshrooms are fungus-like TDs inhabiting wetlands, whose caps are like the petals of a rose when fully bloomed, hence the name.<br />While they are stationary, the core on their caps can gather and release light rays to attack passing creatures.",
         "hasPhantom": false,
         "type": "Mutant Flora",
         "nation": [
@@ -888,7 +888,7 @@
             "Moonlit Clouds",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />An immature humanoid TD that often emits a \"zig zag\" sound when they focus and release light rays.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />An immature humanoid TD that often emits a \"zig zag\" sound when they focus and release light rays.",
         "hasPhantom": false,
         "type": "Tacet Discord-Murmurin",
         "nation": [
@@ -921,7 +921,7 @@
             "Freezing Frost",
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />The TD is a parasite of the Sentry Vehicle, camouflaging itself with a rusted and damaged armor shell. It serves as a \"sentinel\", monitoring all movements within the city and removing any potential threats.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />The TD is a parasite of the Sentry Vehicle, camouflaging itself with a rusted and damaged armor shell. It serves as a \"sentinel\", monitoring all movements within the city and removing any potential threats.",
         "hasPhantom": false,
         "type": "",
         "nation": [],
@@ -959,7 +959,7 @@
             "Sierra Gale",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />A TD living in discarded vehicles. It camouflages itself among ruins and foliage. Once disturbed, they exhibit a terrifying posture.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />A TD living in discarded vehicles. It camouflages itself among ruins and foliage. Once disturbed, they exhibit a terrifying posture.",
         "hasPhantom": false,
         "type": "Tacet Discord - Artificial Species",
         "nation": [
@@ -992,7 +992,7 @@
             "Rejuvenating Glow",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />A tall TD guardian. Its figure resembles a huge boulder from the abyssal depths.<br />Despite its appearance of an indestructible fortification, the nature of Chasm Guardian is never to protect, but to crush any obstacle that blocks its advance.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />A tall TD guardian. Its figure resembles a huge boulder from the abyssal depths.<br />Despite its appearance of an indestructible fortification, the nature of Chasm Guardian is never to protect, but to crush any obstacle that blocks its advance.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1025,7 +1025,7 @@
             "Sierra Gale",
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />Heron-like animals found active in mountain forests and water edges. Though born with wide-spreading cyan wings, they only extend them and fly in roaring winds.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />Heron-like animals found active in mountain forests and water edges. Though born with wide-spreading cyan wings, they only extend them and fly in roaring winds.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -1058,7 +1058,7 @@
             "Void Thunder",
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />A Humanoid TD that casts its power by playing the instrument. Imitating the human behavior of playing flutes to transmit messages, the melody it produces is only noisy and hoarse.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />A Humanoid TD that casts its power by playing the instrument. Imitating the human behavior of playing flutes to transmit messages, the melody it produces is only noisy and hoarse.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1091,7 +1091,7 @@
             "Molten Rift",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />Large amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat.<br />Research has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body temperature.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />Large amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat.<br />Research has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body temperature.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -1131,7 +1131,7 @@
             "Molten Rift",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Wolf-like animals that roam the plains, known for their opportunistic nature.<br />In order to fight against more powerful enemies, Havoc Dreadmanes usually hunt in packs. Their operations are marked by the art of ambush.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Wolf-like animals that roam the plains, known for their opportunistic nature.<br />In order to fight against more powerful enemies, Havoc Dreadmanes usually hunt in packs. Their operations are marked by the art of ambush.",
         "hasPhantom": false,
         "type": "Mutant Flora",
         "nation": [
@@ -1164,7 +1164,7 @@
             "Sierra Gale",
             "Rejuvenating Glow"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />Gibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.<br />Unlike other Hoochiefs, Hoochief Cyclones can conjure air currents to not only launch long-range attacks but also restrict the movement of its targets.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />Gibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.<br />Unlike other Hoochiefs, Hoochief Cyclones can conjure air currents to not only launch long-range attacks but also restrict the movement of its targets.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -1218,7 +1218,7 @@
             "Celestial Light",
             "Rejuvenating Glow"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />A tall TD guardian. Its figure resembles monolithic rocks from the mountains.<br />Despite its appearance of an indestructible fortification, the nature of Rocksteady Guardian is never to protect, but to crush any obstacle that blocks its advance.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />A tall TD guardian. Its figure resembles monolithic rocks from the mountains.<br />Despite its appearance of an indestructible fortification, the nature of Rocksteady Guardian is never to protect, but to crush any obstacle that blocks its advance.",
         "hasPhantom": true,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1251,7 +1251,7 @@
             "Freezing Frost",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Roseshrooms are fungus-like creatures inhabiting wetlands, whose caps are like the petals of a rose when fully bloomed, hence the name.<br />While they are stationary, the core on their caps can gather and release light rays to attacked passing by creatures.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Roseshrooms are fungus-like creatures inhabiting wetlands, whose caps are like the petals of a rose when fully bloomed, hence the name.<br />While they are stationary, the core on their caps can gather and release light rays to attacked passing by creatures.",
         "hasPhantom": false,
         "type": "Mutant Flora",
         "nation": [
@@ -1364,7 +1364,7 @@
             "Freezing Frost",
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Humanoid TD that casts its power by playing the instrument. Imitating the human behaviour of playing bells and saying prayers, the words it emits are never blessing, but curses.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Humanoid TD that casts its power by playing the instrument. Imitating the human behaviour of playing bells and saying prayers, the words it emits are never blessing, but curses.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1397,7 +1397,7 @@
             "Molten Rift",
             "Void Thunder"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />Heron-like animals found active in mountain forests and water edges. Though born with wide-spreading purple wings, they only extend them and fly in furious thunderstorms.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />Heron-like animals found active in mountain forests and water edges. Though born with wide-spreading purple wings, they only extend them and fly in furious thunderstorms.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -1443,7 +1443,7 @@
         "sonata": [
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Crownless is a Whisperin Tacet Discord born outside Gorges of Spirits along with the eruption of the strange Tacet Field. A vast mixture of human frequencies is detected within its physical form. For instance, the exhilaration and thirst for victory, the fear and resentment for casualty... Humans' long-suppressed barbarism is reified in Crownless and antagonized against themselves.<br />This creature is a pawn dispatched by the enemy in disguise, as well as a harbinger of the scourge of war.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Crownless is a Whisperin Tacet Discord born outside Gorges of Spirits along with the eruption of the strange Tacet Field. A vast mixture of human frequencies is detected within its physical form. For instance, the exhilaration and thirst for victory, the fear and resentment for casualty... Humans' long-suppressed barbarism is reified in Crownless and antagonized against themselves.<br />This creature is a pawn dispatched by the enemy in disguise, as well as a harbinger of the scourge of war.",
         "hasPhantom": false,
         "type": "Tacet Discord - Threnodian Species",
         "nation": [
@@ -1482,7 +1482,7 @@
         "sonata": [
             "Sierra Gale"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span><br />A giant ape-like monster that resides at the towering Central Banyan, guarding the apes' territory from intrusion.<br />To avoid unexpected confrontation with it, the Midnight Rangers and the Huaxu Academy once collaborated in a special operation to fix the Feilian Beringal with a tracking bracelet, enabling the tracking of its movements within the forest.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-aero\">Aero DMG</span>.<br />A giant ape-like monster that resides at the towering Central Banyan, guarding the apes' territory from intrusion.<br />To avoid unexpected confrontation with it, the Midnight Rangers and the Huaxu Academy once collaborated in a special operation to fix the Feilian Beringal with a tracking bracelet, enabling the tracking of its movements within the forest.",
         "hasPhantom": true,
         "type": "Mutant Fauna",
         "nation": [
@@ -1521,7 +1521,7 @@
         "sonata": [
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />A giant avian creature that flies around Desorock Highland. Its three heads are respectively responsible for ingestion, offense, and guard.<br />\"Foolish left, wicked right. Center head's the greatest blight\", so would Jinzhou rhymes describe the heads.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />A giant avian creature that flies around Desorock Highland. Its three heads are respectively responsible for ingestion, offense, and guard.<br />\"Foolish left, wicked right. Center head's the greatest blight\", so would Jinzhou rhymes describe the heads.",
         "hasPhantom": true,
         "type": "Mutant Fauna",
         "nation": [],
@@ -1572,7 +1572,7 @@
         "sonata": [
             "Molten Rift"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />A fiery \"biker\" born in the Port City of Guixu. It sets forth trials of courage with its unyielding flame for those who dare to trespass.<br />Throughout the long years, the truth of history gradually burns to ashes, and the knight who once sang boldly toward death becomes a harbinger of fear in the word of mouth among humanity.<br />\"That is the rider who turns fear into fuel and brings calamity.\"<br />However, amidst the idle talk of the indigenous people in the Port City of Guixu, another version quietly spreads.<br />\"When you face that mighty rider, set aside your fear and respond with your utmost reverence. Prove to him your courage to be the last one standing.\"",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />A fiery \"biker\" born in the Port City of Guixu. It sets forth trials of courage with its unyielding flame for those who dare to trespass.<br />Throughout the long years, the truth of history gradually burns to ashes, and the knight who once sang boldly toward death becomes a harbinger of fear in the word of mouth among humanity.<br />\"That is the rider who turns fear into fuel and brings calamity.\"<br />However, amidst the idle talk of the indigenous people in the Port City of Guixu, another version quietly spreads.<br />\"When you face that mighty rider, set aside your fear and respond with your utmost reverence. Prove to him your courage to be the last one standing.\"",
         "hasPhantom": false,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1618,7 +1618,7 @@
         "sonata": [
             "Freezing Frost"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />An ensnarer that slumbers in a freezing mine pit, obsessed with collecting and imitating sounds. It can imitate human speech through a vibrating hum.<br />Lampylumen Myriad uses sound as bait to lure its prey, which will be frozen in the deep cold. The loss of warmth and the illusion before dying will cause human beings to pour out their last words, which contain great emotional fluctuations.<br />For Lampylumen Myriad, this is the frequency of the supreme taste.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />An ensnarer that slumbers in a freezing mine pit, obsessed with collecting and imitating sounds. It can imitate human speech through a vibrating hum.<br />Lampylumen Myriad uses sound as bait to lure its prey, which will be frozen in the deep cold. The loss of warmth and the illusion before dying will cause human beings to pour out their last words, which contain great emotional fluctuations.<br />For Lampylumen Myriad, this is the frequency of the supreme taste.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disordered Species",
         "nation": [
@@ -1664,7 +1664,7 @@
         "sonata": [
             "Lingering Tunes"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />Created in the CSC labs, this Mechanical TD has evolved by consuming machine wrecks. Upon discovering traces of human frequencies, it became fixated on achieving perfection and grew larger as it improved its composition. A haunting symbol of humanity's relentless pursuit of scientific advancement, its presence serves as a subtle reminder of our obsession and descent into madness.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />Created in the CSC labs, this Mechanical TD has evolved by consuming machine wrecks. Upon discovering traces of human frequencies, it became fixated on achieving perfection and grew larger as it improved its composition. A haunting symbol of humanity's relentless pursuit of scientific advancement, its presence serves as a subtle reminder of our obsession and descent into madness.",
         "hasPhantom": false,
         "type": "Tacet Discord - Artificial Species",
         "nation": [],
@@ -1701,7 +1701,7 @@
         "sonata": [
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />A bird-of-prey-like animal that perches at the Whining Aix's Mire, with cries like a mournful song.<br />Legend has it that this bird once had a partner and that their chorus was a beautiful sound. Their names were not passed down, but their hymns were recorded and preserved by human beings.<br />Until one of them was deceased. The surviving one cried all day long, and the cries were so dismal it was called the Mourning Aix.<br />In the loss of a lover, the bird became oppressive and violent, allowing no one to step into its nest of lost love. It only lingers in the heavens while singing the eulogy, in pursuit of an illusion that is no longer there among the clouds.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />A bird-of-prey-like animal that perches at the Whining Aix's Mire, with cries like a mournful song.<br />Legend has it that this bird once had a partner and that their chorus was a beautiful sound. Their names were not passed down, but their hymns were recorded and preserved by human beings.<br />Until one of them was deceased. The surviving one cried all day long, and the cries were so dismal it was called the Mourning Aix.<br />In the loss of a lover, the bird became oppressive and violent, allowing no one to step into its nest of lost love. It only lingers in the heavens while singing the eulogy, in pursuit of an illusion that is no longer there among the clouds.",
         "hasPhantom": true,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1740,7 +1740,7 @@
         "sonata": [
             "Void Thunder"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />A powerful TD that roams the Central Plains. With the aid of thunderstorms, it keeps devouring human sounds of protection. Regarded as a vanguard of the Crownless.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />A powerful TD that roams the Central Plains. With the aid of thunderstorms, it keeps devouring human sounds of protection. Regarded as a vanguard of the Crownless.",
         "hasPhantom": false,
         "type": "Tacet Discord - Disordered Species",
         "nation": [
@@ -1786,7 +1786,7 @@
         "sonata": [
             "Void Thunder"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />A powerful TD based in Desorock Highland with the power of thunder. It is considered one of the vanguards in the Threnodian's army.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />A powerful TD based in Desorock Highland with the power of thunder. It is considered one of the vanguards in the Threnodian's army.",
         "hasPhantom": true,
         "type": "Tacet Discord - Disorder Species",
         "nation": [
@@ -1819,7 +1819,7 @@
             "Rejuvenating Glow",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />A torpid snapping turtle in the frozen lake, carrying an ancient bell on its back.<br />Some researchers once tried to transcribe the inscriptions on the bell, but accidentally disturbed the gargantuan Chelonian's dreams.<br />When it awakens, lasting toll will be echoing around the Gorges of Spirits.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />A torpid snapping turtle in the frozen lake, carrying an ancient bell on its back.<br />Some researchers once tried to transcribe the inscriptions on the bell, but accidentally disturbed the gargantuan Chelonian's dreams.<br />When it awakens, lasting toll will be echoing around the Gorges of Spirits.",
         "hasPhantom": false,
         "type": "Mutant Fauna",
         "nation": [
@@ -1858,7 +1858,7 @@
         "sonata": [
             "Sun-sinking Eclipse"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span><br />Along with the eerie Void Plenilune, this Whisperin TD appeared at the end of the Norfall Barrens.<br />Its very presence is an ominous reminder of the devastating war that once ravaged this land. Born from the residual energies of battle, it continues to evolve and has become the most feared weapon in the Threnodian's arsenal. With merciless destruction, it reawakens humanity's primal fear of warfare. And now, it greets its ruler, ready to unleash chaos upon the world.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-havoc\">Havoc DMG</span>.<br />Along with the eerie Void Plenilune, this Whisperin TD appeared at the end of the Norfall Barrens.<br />Its very presence is an ominous reminder of the devastating war that once ravaged this land. Born from the residual energies of battle, it continues to evolve and has become the most feared weapon in the Threnodian's arsenal. With merciless destruction, it reawakens humanity's primal fear of warfare. And now, it greets its ruler, ready to unleash chaos upon the world.",
         "hasPhantom": false,
         "type": "Tacet Discord - Threnodian Species",
         "nation": [],
@@ -1889,7 +1889,7 @@
             "Freezing Frost",
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />An immature humanoid TD. Small amounts of ice crystals are left on its body. It uses them to imitate the crisp sound of \"clang bang\" of ice colliding.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />An immature humanoid TD. Small amounts of ice crystals are left on its body. It uses them to imitate the crisp sound of \"clang bang\" of ice colliding.",
         "hasPhantom": true,
         "type": "",
         "nation": [],
@@ -1951,7 +1951,7 @@
             "Molten Rift",
             "Lingering Tunes"
         ],
-        "description": "This emeny has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span><br />A larvae-mimic TD mainly inhabits areas beneath the tundra, near geothermal heat sources.<br />By absorbing geothermal energy, it can produce lava through a special organ to melt the frozen soil and dig tunnels extending in all directions.<br />Lava Larva traces often lead to locations rich in geothermal energy.",
+        "description": "This emeny has <b>higher RES</b> to <span class=\"text-fusion\">Fusion DMG</span>.<br />A larvae-mimic TD mainly inhabits areas beneath the tundra, near geothermal heat sources.<br />By absorbing geothermal energy, it can produce lava through a special organ to melt the frozen soil and dig tunnels extending in all directions.<br />Lava Larva traces often lead to locations rich in geothermal energy.",
         "hasPhantom": false,
         "type": "",
         "nation": [],
@@ -1989,7 +1989,7 @@
             "Freezing Frost",
             "Moonlit Clouds"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />A wolf-mimic TD rampant in the snowland, gifted in stealth.<br />Glacio Dreadmanes utilize teamwork and mimicry as weapons against powerful opponents.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />A wolf-mimic TD rampant in the snowland, gifted in stealth.<br />Glacio Dreadmanes utilize teamwork and mimicry as weapons against powerful opponents.",
         "hasPhantom": false,
         "type": "",
         "nation": [],
@@ -2026,7 +2026,7 @@
         "sonata": [
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span><br />An enormous feline-mimic TD, only sighted in Mt. Firmament in Huanglong.<br />According to the Hongzhen Chronicle, it is a solitary TD with four claws and a scaly back. It is called \"Lightcrusher\" because of the glowing tracks left in its wake.",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span>.<br />An enormous feline-mimic TD, only sighted in Mt. Firmament in Huanglong.<br />According to the Hongzhen Chronicle, it is a solitary TD with four claws and a scaly back. It is called \"Lightcrusher\" because of the glowing tracks left in its wake.",
         "hasPhantom": true,
         "type": "",
         "nation": [],
@@ -2071,7 +2071,7 @@
             "Freezing Frost",
             "Void Thunder"
         ],
-        "description": "The enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span><br />Lumiscale Constructs are composed of Jué's defensive modules, commonly known as \"Loong's Scales.\"<br />They are found throughout the Court of Savantae ruins in Mt. Firmament, tasked with eliminating intruders and potential threats to Jué.",
+        "description": "The enemy has <b>higher RES</b> to <span class=\"text-glacio\">Glacio DMG</span>.<br />Lumiscale Constructs are composed of Jué's defensive modules, commonly known as \"Loong's Scales.\"<br />They are found throughout the Court of Savantae ruins in Mt. Firmament, tasked with eliminating intruders and potential threats to Jué.",
         "hasPhantom": false,
         "type": "",
         "nation": [],
@@ -2116,7 +2116,7 @@
         "sonata": [
             "Celestial Light"
         ],
-        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span> and <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span><br />One of the Sentinels of Huanglong, taking the shape of a Loong. The guiding force behind Jinzhou's civilization.<br />A majestic \"deity\" with unquestionable power, omniscient of Jinzhou's past, present, and future. Jué, the wielder of time's flow, sees eons as mere moments. In an instant, Jué can change the universe forever.<br />\"Seasons shift by decree, and all beings abide by their laws. Such is the nature of the universe.\"",
+        "description": "This enemy has <b>higher RES</b> to <span class=\"text-spectro\">Spectro DMG</span> and <b>higher RES</b> to <span class=\"text-electro\">Electro DMG</span>.<br />One of the Sentinels of Huanglong, taking the shape of a Loong. The guiding force behind Jinzhou's civilization.<br />A majestic \"deity\" with unquestionable power, omniscient of Jinzhou's past, present, and future. Jué, the wielder of time's flow, sees eons as mere moments. In an instant, Jué can change the universe forever.<br />\"Seasons shift by decree, and all beings abide by their laws. Such is the nature of the universe.\"",
         "hasPhantom": false,
         "type": "",
         "nation": [],
